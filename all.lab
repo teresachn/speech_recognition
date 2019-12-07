@@ -1,0 +1,1034 @@
+*/13516126_001 assalamualaikum warahmatullahi wabarakatuh
+*/13516126_002 siang ini kita kembali lagi di kuliah if tiga satu lima satu interaksi manusia dan komputer
+*/13516126_003 pada siang hari ini kita akan membahas tentang apa yang disebut dengan desain interaksi
+*/13516126_004 sebelum kita mulai kuliah pada hari ini kalian bisa melihat gambar yang ada di depan
+*/13516126_005 menurut kalian <apa> apa yang salah dengan gambar yang ada di depan
+*/13516126_006 ya jadi pada gambar di depan ini tombol yang ada di bawah labelnya terlihat sama
+*/13516126_007 orang-orang sering salah menekan tombol ketika melihat benda yang bentuknya sama 
+*/13516126_008 sehingga pada tombol yang ada di depan orang-orang sering menekan tombol yang salah untuk mengoperasikan benda yang ada di depan
+*/13516126_009 kemudian kalau gambar yang ini bagaimana
+*/13516126_010 kalau gambar yang ini kalian bisa melihat <d> ada instruksi untuk menekan tombol terlebih dahulu sebelum memasukkan uang
+*/13516126_011 padahal pada oh iya ini gambar vending machine kalau kalian tidak <tidak> dapat ya
+*/13516126_012 jadi pada vending machine umumnya orang-orang memasukkan uang terlebih dahulu baru menekan tombol untuk mengambil pesanan yang ia inginkan
+*/13516126_013 tapi pada gambar disini ada instruksi untuk menekan tombol terlebih dahulu sebelum<memasuki> memasukkan uang 
+*/13516126_014 ini berkontradiksi dengan <de> interaksi-nteraksi umumnya pada vending machine
+*/13516126_015 sehingga orang-orang sering melakukan kesalahan ketika berinteraksi dengan mesin ini
+*/13516126_016 nah dari sini apakah kalian sudah mulai kebayang apa itu yang namanya <in> desain interaksi
+*/13516126_017 ya jadi sebenarnya bagaimana sih <de> <inte> desain interaksi yang bagus
+*/13516126_018 desain interaksi yang bagus menurut bishop ada empat 
+*/13516126_019 yaitu bergerak seperti bagaimana objek-objek pada <pada> <dunia> pada dunia nyata sehari hari
+*/13516126_020 yang kedua mudah dan intuitif untuk digunakan juga nyaman untuk digunakan
+*/13516126_021 yang ketiga hanya membutuhkan <satu> satu aksi untuk melakukan <pen> hal-hal yang penting
+*/13516126_022 misalkan kalian bisa melihat kalian pernah memakai remot televisi
+*/13516126_023 kenapa sih remot televisi biasanya lebih nyaman digunakan dibanding remot kontrol pada umumnya
+*/13516126_024 jadi kalian bisa melihat biasanya remot televisi itu biasanya sangat nyaman di tangan
+*/13516126_025 ukurannya <tidak> ukurannya tidak terlalu besar dan tidak terlalu kecil
+*/13516126_026 kemudian layout dari tombol-tombolnya sangat teratur dan warna warnanya juga terlihat dengan jelas
+*/13516126_027 misalnya tombol on off warnanya merah
+*/13516126_028 tombol ganti channel warnanya abu
+*/13516126_029 tombol lain warnanya lain
+*/13516126_030 kemudian dari situ juga orang-orang bisa dengan mudah <me> mencari tombol yang mereka inginkan
+*/13516126_031 nah tapi <yang> sebenarnya untuk mengoperasikan sebuah televisi sebenarnya cara yang bagaimana sih cara yang paling cocok untuk mengoperasikan televisi
+*/13516126_032 apakah dengan remot biasa
+*/13516126_033 ataukah dengan keyboard
+*/13516126_034 atau apakah dengan kalau sekarang itu kalian sudah bisa menggunakan tv dengan layar yang touchscreen
+*/13516126_035 nah untuk menentukan sesuatu yang ingin kalian desain kalian perlu <mem> memperkirakan sebenarnya siapa sih alat atau aplikasi yang ingin kalian bikin
+*/13516126_036 kemudian sebenarnya dari aplikasi itu apa sih kegiatan atau aktivitas yang sedang dikerjakan 
+*/13516126_037 dan yang terakhir kalian harus tahu dimana interaksi itu dilaksanakan
+*/13516126_038 misalnya kalau misalnya kasusnya televisi berarti kemungkinan besar akan ada di sebuah ruangan
+*/13516126_039 mungkin di rumah mungkin di ruang tamu atau lain-lain
+*/13516126_040 kemudian dari situ kalian perlu mengoptimisasi bagaimana user berinteraksi dengan produk
+*/13516126_041 sehingga produk itu <mem> cocok dengan apa yang dibutuhkan oleh user
+*/13516126_042 nah untuk <menghe> untuk memahami apa sebenarnya dibutuhkan oleh user kalian perlu <mem> mengetahui beberapa hal
+*/13516126_043 pertama kalian harus memperhatikan ap hal yang mudah dilakukan orang dan apa yang sulit dilakukan orang
+*/13516126_044 misalnya kalau dalam mencari misalnya dalam kasus remot kontrol atau remot tv tadi orang-orang mungkin susah untuk mengenal tombol tombol yang terlalu kecil
+*/13516126_045 atau kalau misal terlalu besar mungkin tidak enak untuk dipakai
+*/13516126_046 tapi kalau misalnya tombol-tombol penting diberi warna tertentu orang-orang akan gampang mencarinya
+*/13516126_047 kemudian kalian harus memikirkan apa sih yang mungkin membantu orang-orang untuk membantu <ap> bagaimana cara mereka melakukan sesuatu
+*/13516126_048 misalnya tadi misalnya ingin mencari tombol di sebuah remot tv
+*/13516126_049 kira-kira apa sih yang bisa membantu
+*/13516126_050 misalnya dikasi warna atau mungkin tombol yang penting-penting diberi ukuran yang berbeda
+*/13516126_051 yang ketiga kalian harus <mempe> memikirkan bagaimana cara untuk memberikan user experience yang berkualitas
+*/13516126_052 user experience itu apa
+*/13516126_053 jadi user experience itu adalah pengalaman yang dirasakan oleh pengguna
+*/13516126_054 misalnya senang nyaman
+*/13516126_055 jadi ketika pengguna menggunakan produk kalian kalian pasti memiliki sebuah user experience yang ingin kalian sampaikan
+*/13516126_056 nah itu harus dipikirkan dari awal
+*/13516126_057 yang terakhir kalian harus mencoba dan menguji dengan cara-cara yang user centered
+*/13516126_058 artinya berpusat kepada user
+*/13516126_059 kalian tidak boleh membangun sebuah aplikasi atau sebuah alat hanya dengan cara pandang seorang developer
+*/13516126_060 tapi kalian juga harus melihat dari <su> sudut pandang si user
+*/13516126_061 sebenarnya apa sih yang mereka suka
+*/13516126_062 apa yang mereka butuhkan
+*/13516126_063 apa yang mereka mengerti
+*/13516126_064 itu harus kalian masukkan kedalam pertimbangan ketika membuat sebuah aplikasi atau alat
+*/13516126_065 jadi pada pada akhirnya apa sih sebenarnya desain interaksi itu
+*/13516126_066 jadi kalau menurut preece sharp dan roger ini dari tahun dua ribu lima belas <de> <interaks> desain interaksi adalah <mem> mendesain sebuah produk yang interaktif untuk mendukung bagaimana orang-orang berkomunikasi dan berinteraksi di <se> sehari-harinya
+*/13516126_067 kemudian menurut winograd pada tahun sembilan belas sembilan tujuh desain interaksi itu adalah sebuah desain <seb> untuk komunikasi manusia dan untuk interaksi
+*/13516126_068 sebenarnya tujuannya apa sih kita membuat desain interaksi ini
+*/13516126_069 kita ingin membuat sebuah produk yang usable yang dapat digunakan <oleh> oleh orang-orang
+*/13516126_070 seandainya produk yang kalian buat tidak mempertimbangkan bagaimana user berinteraksi dengan alat kalian user tidak akan merasa nyaman menggunakan alat kalian
+*/13516126_071 sehingga tentu saja orang-orang tidak akan suka untuk memakai aplikasi atau alat yang kalian buat
+*/13516126_072 untuk membuat hal ini kalian perlu melibatkan user ketika kalian membuat sebuah desain
+*/13516126_073 sebenarnya desain apa sih yang ingin yang bisa kita buat untuk membuat itu sangat interaktif
+*/13516126_074 jadi ada berbagai hal yang bisa kalian pertimbangkan ketika membuat sebuah desain
+*/13516126_075 pertama harus tahu dulu sebenarnya ini apa sih medan yang kalian buat
+*/13516126_076 jadi kalau misalnya sebuah istilah-istilah yang biasanya ada di desain yang kita buat itu biasanya kita ada membuat desain interface
+*/13516126_077 bisa juga membuat desain perangkat lunak
+*/13516126_078 kita bisa membuat experience design itu menedesain sebuah user experience
+*/13516126_079 ada web design
+*/13516126_080 ada juga yang namanya macem-macem
+*/13516126_081 nah disini ketika membuat sebuah desain kita bisa meminta bantuan kepada orang-orang yang ahli di bidang yang diluar yang kita punya karena tidak semua orang di informatika membuat desain yang baik
+*/13516126_082 kita bisa meminta tolong kepada ahli psikolog ahli social sciences trus ahli desain <danma> dan lain-lain
+*/13516126_083 kemudian ketika kalian bekerja untuk membuat sebuah desain kalian tidak akan bekerja sendirian pastinya kalian akan mempertimbangkana ahli-ahli yang lain seperti ahli desain tadi
+*/13516126_084 jadi ketika itu kalian akan bergerak di sebuah tim yang memiliki latar belakang yang berbeda memiliki cara pandang yang berbeda dan bagaimana cara menyelesaikan sebuah masalah
+*/13516126_085 dengan tim yang <berbage> yang terdiri dari berbagai macam latar belakang ini kalian akan mendapatkan keuntungan <se> seperti kalian akan mendapatkan banyak ide dan banyak pandangan yang mungkin sangat membantu kalian dalam mendevelop sebuah produk
+*/13516126_086 tapi <p> pada kerugiannya adalah kalian akan sulit untuk berkomunikasi karena mungkin apa yang ingin kalian sampaikan tidak bisa dimengerti oleh orang lain dan mungkin orang lain juga sulit untuk menyampaikan apa yang ia mengerti
+*/13516126_087 nah sekian dulu untuk kuliah pada hari ini
+*/13516126_088 jangan lupa kita ada kuliah lagi di hari kamis jam satu siang lagi di tujuh enam nol lima
+*/13516126_089 terima kasih wasalamualaikum warahmatullahi wabarakatuh
+*/13516128_001 baik semuanya selamat pagi assalamualaikum warahmatullahi wabarakatuh 
+*/13516128_002 nah hari ini kita akan belajar tentang pengelolahan citra 
+*/13516128_003 nah sebenarnya saya dulu pernah mengajar ini tapi sudah lama sekali tahun dua ribu tiga kalo nggak salah saya dulu pernah mengajar ini 
+*/13516128_004 nah sekarang saya dikembali di beri amanah untuk mengajar tentang pengelolaan citra ini 
+*/13516128_005 okei untuk pengelolaan citra ini <ng> kita pakai referensinya buku dari gonzales digital image processing edisi ke tiga 
+*/13516128_006 sebuah citra atau gambar itu memiliki makna yang lebih dari seribu kata 
+*/13516128_007 nah kalian bisa lihat dari gambar yang ada disini 
+*/13516128_008 dari situ kita dapat memberi makna bahwa gambar itu terdapat beberapa ibu ibu yang sedang memasak yang makanan yang terbuat dari bambu 
+*/13516128_009 kemudian untuk cirta selanjutnya disini kalian bisa melihat ada sebuah mobil yang mengangkut banyak banyak orang beserta barang bawaannya 
+*/13516128_010 atau mungkin pada <cerit> citra selanjutnya disini kalian bisa melihat ada sebuah masjid kemudian kartun dan lain sebagainya 
+*/13516128_011 jadi sebenarnya apa itu citra 
+*/13516128_012 nah citra adalah sinyal dwimarta yang bersifat menerus yang dapat diamati oleh sistem visual manusia 
+*/13516128_013 citra ini berdasarkan perekamannya ada tiga jenis 
+*/13516128_014 yang pertama citra optik yaitu contohnya berupa foto 
+*/13516128_015 kemudian ada citra analog itu gambar pada monitor televisi 
+*/13516128_016 atau yang ketiga itu citra digital yang dapat di simpan langsung pada disk atau pita magnetik 
+*/13516128_017 nah ini adalah contoh dari citra-citra ini ada citra digital kemudian disini ada citra yang berupa foto 
+*/13516128_018 kemudian dalam sebuah citra itu terkadang kita melihat kualitas citra yang kurang baik 
+*/13516128_019 misalnya banyak mengandung derau kemudian warnanya terlalu kontras kurang tajam kabur dan sebagainya 
+*/13516128_020 nah ini menjadi susah kita intrepertasi karena citranya kurang bagus 
+*/13516128_021 oleh karena ini perlu adanya suatu pengelolaan citra 
+*/13516128_022 pengelolaan citra ini adalah pemrosesan citra digital dengan menggunakan operasi operasi tersentu dengan menggunakan sebuah computer 
+*/13516128_023 nah apa aja sih pengelolaan citra yang dapat kita lakukan 
+*/13516128_024 nah operasi operasinya yang dapat kita lakukan adalah 
+*/13516128_025 yang pertama adalah perbaikan kualitas citra atau <ng> image enhancement 
+*/13516128_026 yang kedua adalah kita bisa melalukan pemapatan citra atau kita juga bisa melakukan <ng> analisis citra atau kita bisa merekrontruksi citra2 retorasi citra dan pematan citra 
+*/13516128_027 nah yang pertama adalah perbaikan kualitas citra 
+*/13516128_028 ini tujuannya seperti namanya yaitu memperbaiki kualitas citra dengan memanipulasi parameter parameter yang ada pada citra tersebut 
+*/13516128_029 nah <ng> operasi yang bisa dilakukan dari perbaikan kualitas citra ini contohnya adalah penajaman kemudian kita bisa melakukan filtering dari nois kemudian kita bisa melakukan koreksi geometrik perbaikan tepian objek dan lain sebagainya 
+*/13516128_030 nah ini adalah contoh hasil dari perbaikan dari kualitas citra 
+*/13516128_031 dari kontras yang gelap kemudian kita ubah jadi kontras yang terang 
+*/13516128_032 selanjutnya yang bisa kita lakukan adalah penajaman citra 
+*/13516128_033 nah ini adalah contoh gambarnya 
+*/13516128_034 dari gambar yang disini normalnya kemudian kita bisa melakukan penajaman seperti gambar disamping 
+*/13516128_035 selanjutnya adalah restorasi citra restorasi citra ini bertujuan untuk menghilangkan atau meminum meminimumkan cacat pada citra 
+*/13516128_036 tujuannya adalah untuk pemugaran citra hampir sama dengan image enhancement 
+*/13516128_037 bedanya pada pemugaran citra ini penyebabnya adalah degradasi gambar diketahui 
+*/13516128_038 kemudian kita melakukan analisis citra 
+*/13516128_039 tujuannya adalah untuk menghitung ukuran kuantitatif dari citra untuk menghasilkan deskripsinya 
+*/13516128_040 nah teknik analisis ini adalah kita mengekstraksi ciri-ciri tertentu yang membantu dalam identifikasi objek 
+*/13516128_041 contoh contohnya adalah deteksi tepi kemudian ekstraksi batas kemudian kita representasi daerah 
+*/13516128_042 ini adalah contoh dari gambar analisis 
+*/13516128_043 nah kemudian kita bisa juga melakukan kompresi citra tujuannya apa 
+*/13516128_044 tujuannya untuk menghilangkan redudansi pada citra 
+*/13516128_045 nah dua jenis kompresi pada citra tuh ada yang losles ada yang losi 
+*/13516128_046 nah losles ini contohnya itu formatnya seperti gif atau pi'en'ji 
+*/13516128_047 kalau yang losi itu contohnya seperti jipeg 
+*/13516128_048 <setele> <set> setelah itu setelah itu hasil dari perbaikan dari kualitas-kualitas citra ini dapat kita manfaatkan untuk melakukan understanding image atau dapat menganalisis yang ada pada gambar tersebut 
+*/13516128_049 nah berikut ini adalah contoh dari hasil analisis citra 
+*/13516128_050 kita bisa melakukan sidik jari kemudian kita bisa lakukan deteksi gambar kemudian kita bisa juga melakukan sebuah deteksi tepi untuk mendeteksi sebuah objek yang ada di dalamnya 
+*/13516128_051 nah apa aja sih yang ada pada pengolahan citra ini aplikasinya apa aja 
+*/13516128_052 yang pertama adalah editing sebuah gambar 
+*/13516128_053 contohnya seperti ini 
+*/13516128_054 kita dapat menghilangkan derau derau atau noise yang ada pada gambar menjadi gambar yang menjadi lebih baik 
+*/13516128_055 nah contoh dari aplikasi pengolah citra lainnya adalah seperti ini 
+*/13516128_056 kita dapat membuat sebuah citra menjadi citra yang penuh dengan frame-frame 
+*/13516128_057 nah kemudian kita juga dapat mengganti sebuah background yang ada pada citra 
+*/13516128_058 nah selanjutnya pada bidang medis kita juga dapat membuat citra ini menjadi lebih citra yang tampak misalnya mengubah citra yang biasa ini menjadi ke ke dalam citra biner hitam putih 
+*/13516128_059 kemudian aplikasi lainnya kita dapat melakukan deteksi wajah pada sebuah citra 
+*/13516128_060 dan banyak seka lagi aplikasi-aplikasi yang dapat kita lakukan dengan citra ini 
+*/13516128_061 selanjutnya operasi-operasi apa aja yang dapat dilakukan pada citra 
+*/13516128_062 nah operasi-operasi pada citra itu ada empat level 
+*/13516128_063 yang pertama adalah aras titik yang kedua aras lokal yang ketiga aras global yang ketiga yang keempat adalah aras objek 
+*/13516128_064 yang pertama aras titik nah aras titik ini berarti kita melakukan operasi pemrosesan citra pada aras titik pada suatu pixel tunggal 
+*/13516128_065 operasi itu diulangi keseluruhan pixel-pixel yang ada pada citra 
+*/13516128_066 nah contoh dari operasi titik ini misalnya ketika kita melakukan tresholding mengubah citra menjadi citra biner 
+*/13516128_067 jadi misalnya kita menggunakan tresholding seratus dua puluh delapan berarti citra citra yang diatas seratus dua delapan itu kita ubah menjadi satu dan citra-citra untuk pixelnya yang berada di seratus dua delapan kita ubah menjadi nol 
+*/13516128_068 berikut ini adalah algoritma dari citra biner 
+*/13516128_069 kalian bisa melihat disini 
+*/13516128_070 kemudian kita juga dapat melakukan transformasi citra menjadi citra negatif 
+*/13516128_071 nah caranya seperti apa 
+*/13516128_072 caranya kita tinggal mengurangkan pixel-pixel itu dengan dua ratus dua puluh lima
+*/13516128_073 jadi dua ratus dua puluh lima dikurangkan dengan besaran pixel-pixel yang ada pada gambar tersebut 
+*/13516128_074 nah ini adalah contoh dari citra yang dihasilkan 
+*/13516128_075 sebelah kiri ini adalah citra gedung sate kemudian ini citra gedung sate setelah dilakukan transformasi ke citra negatif 
+*/13516128_076 selanjutnya adalah pencerahan citra 
+*/13516128_077 di sini kita dapat mengatur kecerahan citra tersebut menjadi dengan cita-cita yang lebih cerah 
+*/13516128_078 nah caranya adalah kita da dapat langsung menambahkan pixel-pixel yang ada pada citra tersebut dengan konstanta b 
+*/13516128_079 jika be positif berarti citra itu bertambah terang 
+*/13516128_080 tapi jika be negatif kecerahan citra itu menjadi berkurang 
+*/13516128_081 nah ini adalah rumus untuk melakukan pencerahan pada citra 
+*/13516128_082 nah ini contoh gambarnya 
+*/13516128_083 pada gambar kiri itu ada citra zelda yang gelap ya kemudian di sebelah kanannya ini hasil proses pencerahan citra citra zelda yang menjadi lebih terang 
+*/13516128_084 kemudian adalah konversi cerita dari berwarna ke grey scale 
+*/13516128_085 nah untuk melakukan konversi ci konversi citra berwarna ke citra grayscale itu ada beberapa cara 
+*/13516128_086 yang pertama ini kita dengan melakukan rata-rata 
+*/13516128_087 jadi pixel-pixel yang ada di warna merah kemudian warna hijau dan warna biru itu kita jumlahkan kemudian kita bagi tiga 
+*/13516128_088 hasilnya seperti gambar yang seperti ini 
+*/13516128_089 ni terlihat kurang bagus 
+*/13516128_090 cara lainnya adalah dengan menggunakan konstanta berikut ini 
+*/13516128_091 dan hasil yang kita dapatkan itu menjadi lebih bagus 
+*/13516128_092 selanjutnya adalah pemrosesan aras lokal 
+*/13516128_093 nah pemrosesan aras lokal ini kita dapat menghasilkan citra yang intensitasnya berkurang yang bergantung pada pixel-pixel tetangganya 
+*/13516128_094 nah contohnya ketika ingin melakukan deteksi tepi atau juga melakukan pelembutan citra hasil yang didapatkan seperti ini 
+*/13516128_095 kalo aras global itu berarti kita melakukan operasi pixel-pixel itu dengan keseluruhan pixel-pixel yang ada pada citra tersebut 
+*/13516128_096 nah aras global ini dapat dilakukan untuk melakukan sebuah operasi citra yang banyak menggunakan pixel-pixel tetangganya 
+*/13516128_097 nah operasi aritmatika pada citra itu apa apa aja sih 
+*/13516128_098 yang pertama ada operasi penjumlahan perkalian kemudian pembagian perkalian dan lain sebagainya 
+*/13516128_099 ini adalah rumus yang digunakan untuk operasi aritmatika pada sebuah citra 
+*/13516128_100 kemudian adalah pengurangan pada sebuah citra 
+*/13516128_101 pengurangan pada sebuah citra ini kita dapat menghilangkan gambar yang ada pada citra tersebut 
+*/13516128_102 misalnya kita ingin menghilangkan latar belakangnya dan segala macamnya 
+*/13516128_103 oke mungkin cukup sekian untuk kuliah pada hari ini 
+*/13516128_104 akan kita lanjutkan minggu depan 
+*/13516128_105 <ng> untuk tugasnya pada minggu ini belum ada 
+*/13516128_106 baik selamat sore semuanya 
+*/13516129_001 <euh> selamat siang
+*/13516129_002 selamat datang di kuliah pertama as dua ribu lima astronomi dan lingkungan 
+*/13516129_003 jadi pada pertemuan kali ini kita akan membahas mengenai polusi cahaya
+*/13516129_004 slide ini sudah diupdate dan dimodifikasi dari slide yang dimiliki oleh kiki verdianti
+*/13516129_005 sebelumnya apa itu polusi cahaya
+*/13516129_006 polusi cahaya ini sebetulnya termasuk ke dalam problema lingkungan
+*/13516129_007 faktor ketidakpedulian ketidakpekaan dan alasan ekonomi jangka pendek merupakan sebab utama dari problem lingkungan
+*/13516129_008 sebetulnya pencahayaan itu banyak maknanya
+*/13516129_009 pencahayaan itu bisa buat kenyamanan keamanan navigasi keindahan dan dekorasi bisa juga buat iklan dan lain-lain
+*/13516129_010 namun kalau terlalu banyak pencahayaan juga tidak bagus
+*/13516129_011 nah ini ada foto bumi di malam hari sebagai cermin peta pusat ekonomi global
+*/13516129_012 terlihat kalau di tempat yang merupakan pusat ekonomi cahayanya lebih terang 
+*/13516129_013 nah ini ada langit malam di phoenix amerika serikat
+*/13516129_014 ini karena lampunya sangat terang sehingga langit malam juga terkena cahaya sehingga tidak terlihat bintang sama sekali
+*/13516129_015 nah selanjutnya ada foto lain mengenai langit malam di belfast
+*/13516129_016 foto ini diambil oleh peter paice
+*/13516129_017 sama juga di foto ini terlihat bahwa tidak kelihatan bintang sama sekali
+*/13516129_018 bahkan di taman nasional di amerika polusi cahaya juga masih terjadi
+*/13516129_019 ini adalah foto di sebuah taman nasional di utah
+*/13516129_020 lalu selanjutnya ada foto dari taman nasional di las vegas
+*/13516129_021 polusi cahayanya masih terlihat juga disini
+*/13516129_022 nah pada jaman dulu polusi cahaya itu masih belum separah sekarang
+*/13516129_023 ada foto tahun sembilan belas delapan puluh di amerika
+*/13516129_024 nah selanjutnya ini foto tahun dua ribu di amerika
+*/13516129_025 terlihat kalau polusi cahayanya sudah makin bertambah
+*/13516129_026 di tahun dua ribu lima bahkan polusi cahayanya bertambah drastis
+*/13516129_027 ini ada foto dari mount wilson observatory
+*/13516129_028 seharusnya observatorium itu diletakkan di tempat yang terpencil dan jauh dari cahaya
+*/13516129_029 tetapi karena berbagai alasan ya
+*/13516129_030 kalau kemajuan kota di dekatnya semakin bertambah pesat pasti cahayanya makin bertambah
+*/13516129_031 sehingga ya mau tidak mau observatorium juga terganggu oleh hal itu
+*/13516129_032 seperti contohnya kalau di bandung ini ada observatorium bosscha
+*/13516129_033 observatorium bosscha juga pasti sekarang mengalami dampak dari kemajuan ekonomi di bandung
+*/13516129_034 dimana polusi cahaya semakin banyak sehingga sekarang sudah sulit untuk mengamati bintang
+*/13516129_035 selanjutnya ini ada foto eropa tahun dua ribu
+*/13516129_036 nah bisa dilihat untuk dua ribu dua tujuh polusi cahayanya jauh lebih bertambah
+*/13516129_037 di asia tenggara sekarang masih lebih sedikit daripada di bagian belahan dunia yang lain
+*/13516129_038 ini pada tahun dua ribu delapan di bosscha juga sudah terkena polusi cahaya dari kota bandung
+*/13516129_039 selain itu di bosscha juga terpengaruh oleh polusi cahaya dari kota lembang
+*/13516129_040 nah masalahnya adalah jenis lampu
+*/13516129_041 jika lampu yang digunakan itu tidak ada kapnya maka cahaya dari lampu akan terkena ke atas juga
+*/13516129_042 jika lampu digunakan oleh kapnya maka cahaya akan terfokuskan ke bawah
+*/13516129_043 nah di itb juga nanti kalian akan diberikan tugas untuk mendeteksi polusi cahaya di itb
+*/13516129_044 nah seperti ini contoh tugas-tugas tahun lalu
+*/13516129_045 terdapat polusi cahaya ini contohnya di depan gedung teknik geofisika
+*/13516129_046 lalu ada juga di depan gku barat
+*/13516129_047 samping gku timur
+*/13516129_048 nah nanti kalian mungkin bisa mendeteksi jenis lampu yang bagus itu seperti apa
+*/13516129_049 dari contoh nih
+*/13516129_050 nah bahkan ada lampu yang menyala di siang hari
+*/13516129_051 contohnya ini di bsc-a
+*/13516129_052 nah selanjutnya di depan masjid salman merupakan contoh lampu yang bagus
+*/13516129_053 karena di atasnya itu ada ada kapnya
+*/13516129_054 sehingga di daerah atasnya tetap gelap sedangkan daerah terangnya hanya terfokuskan di bawah
+*/13516129_055 apa sumber utama dari polusi cahaya
+*/13516129_056 ada yang bisa menjawab
+*/13516129_057 sumber utamanya adalah tiga puluh lima sampai lima puluh persen berasal dari lampu jalan
+*/13516129_058 apa dampak dari polusi cahaya
+*/13516129_059 karena pada dasarnya di malam hari seharusnya yang menjadi pencahayaan hanyalah bintang
+*/13516129_060 jika ditambah dengan cahaya artificial yang dibuat oleh manusia kehidupan satwa akan terganggu
+*/13516129_061 selain itu imajinasi dan kesehatan manusia juga akan terganggu
+*/13516129_062 oleh karena itu perlu upaya untuk perlindungan langit gelap
+*/13516129_063 langit malam jauh lebih indah jika tanpa polusi cahaya
+*/13516129_064 jika tanpa polusi cahaya kita bisa melihat nebula orion seperti foto berikut
+*/13516129_065 selain itu jika kita melihat dari tempat yang jarang polusi cahaya kita bahkan bisa melihat galaksi bimasakti seperti contoh berikut di kabupaten kupang
+*/13516129_066 cahaya buatan non-alami yang tidak terkendali dapat menyebabkan langit terang silau gangguan terhadap hak sekitar
+*/13516129_067 selain itu hal ini juga menyebabkan ketidakefisienan atau boros penggunaan energi
+*/13516129_068 akibat dari polusi cahaya itu tergantung juga oleh kapnya
+*/13516129_069 kalau misalkan tidak ada kap itu sangat buruk
+*/13516129_070 kalau ada kap tapi tidak ada pinggirnya itu buruk 
+*/13516129_071 kalau kapnya merata itu baik tapi paling adalah yang kapnya bisa memfokuskan ke bawah
+*/13516129_072 karena cahaya keatas merupakan sumber dari polusi cahaya
+*/13516129_073 cahaya keatas itu disebut dengan istilah sky glow
+*/13516129_074 dampak dari sky glow adalah duapertiga populasi di dunia tidak pernah melihat langit malam bertaburan bintang karena polusi cahaya
+*/13516129_075 selain itu sembilan puluh sembilan persen masyarakat eropa barat dan amerika serikat tidak pernah melihat langit yang gelap
+*/13516129_076 ini ada contoh-contohnya sky glow
+*/13516129_077 hamburan cahaya oleh partikel-partikel udara atau aerosol menyebabkan langit terang dan bintang tidak tampak
+*/13516129_078 selain itu juga seperti di kota-kota besar seperti las vegas terdapat lampu sorot untuk promosi yang dapat terlihat puluhan kilometer
+*/13516129_079 ini contohnya di oklahoma
+*/13516129_080 lampu sorot dengan tujuh puluh dua ribu dua ratus lima puluh lumen
+*/13516129_081 selain itu polusi cahaya juga dapat mengurangi atau menutup jarak pandang
+*/13516129_082 lalu menyebabkan adaptasi mata menjadi lebih lama pemborosan juga
+*/13516129_083 cahaya tidak terkontrol merupakan polusi cahaya
+*/13516129_084 <euh> sebagai berikut penjelasan dari polusi cahaya
+*/13516129_085 <euh> kuliah ini sudah selesai silakan <euh> kembali ke kelas masing-masing
+*/13516129_086 jangan lupa kuliah berikutnya hari jumat jam dua
+*/13516129_087 sekian
+*/13516130_001 hari ini kita akan belajar tentang sentimen analisis
+*/13516130_002 kenapa sih kita perlu belajar sentimen analisis
+*/13516130_003 sentimen analisis ini dilakukan untuk memahami opini orang terhadap sesuatu baik itu orang lain baik itu sebuah perusahaan baik itu produk pemerintah dan lain-lain
+*/13516130_004 dengan adanya sentimen analisis kita tidak perlu lagi untuk melakukan survey terhadap opini orang akan produk kita dan ini akan mengurangi pengeluaran kita
+*/13516130_005 tipe opini terdiri dari dua macam
+*/13516130_006 yang pertama adalah opini regular atau opini yang di dalamnya hanya menilai satu objek saja
+*/13516130_007 nah di sini ada dua jenis ada opini yang sentimennya dinyatakan secara eksplisit ada juga yang dinyatakan secara implisit
+*/13516130_008 tipe opini yang kedua adalah tipe opini komparatif atau perbandingan
+*/13516130_009 nah di dalam opini ini objek yang dibandingkan itu adalah berjumlah dua atau lebih
+*/13516130_010 contohnya rasa dari pepsi lebih enak dari coca-cola
+*/13516130_011 nah dari opini tersebut kan bisa dilihat kan kalo misalnya objek yang dibandingkan itu ada dua yaitu pepsi dan coca-cola
+*/13516130_012 opini bisa didefinisikan menjadi empat variabel
+*/13516130_013 yang pertama adalah variabel g atau target
+*/13516130_014 target yang dimaksud adalah objek yang akan dinilai sentimennya
+*/13516130_015 yang kedua yaitu s atau sentimen
+*/13516130_016 jadi ini merupakan nilai sentimen tersebut apakah positif negatif atau netral
+*/13516130_017 yang ketiga adalah h atau pemegang opini yaitu siapa orang yang menyatakan opini tersebut dan yang keempat adalah t yaitu time yaitu kapan sih opini itu dibuat karena data dari waktu ini tuh sangat penting untuk melihat perubahan opini seiring berjalannya waktu
+*/13516130_018 seharusnya dalam sebuah produk itu semakin hari produknya semakin baik sehingga opininya seharusnya semakin baik juga
+*/13516130_019 dalam melakukan analisis sentimen dibagi menjadi beberapa level
+*/13516130_020 yang pertama itu adalah dokumen level
+*/13516130_021 dokumen level ini intinya proses ini menilai suatu dokumen itu sentimennya negatif atau positif
+*/13516130_022 jadi diasumsikan dokumen tersebut hanya memiliki satu jenis sentimen
+*/13516130_023 yang kedua adalah sentence level atau level kalimat
+*/13516130_024 di sini analisis dilakukan terhadap tiap kalimat
+*/13516130_025 jadi nanti hasilnya adalah sentimen dari tiap kalimat tersebut
+*/13516130_026 yang terakhir ada aspect based analisis
+*/13516130_027 jadi analisis dilakukan berdasarkan aspek
+*/13516130_028 contohnya adalah kualitas telefon samsung baik tetapi kualitas baterainya buruk karena dia gampang mati
+*/13516130_029 nah di sini kan terlihat bahwa dia menilai dua aspek yaitu kualitas telefon dan kualitas baterai
+*/13516130_030 nanti hasil sentimennya adalah berdasarkan kedua aspek tersebut
+*/13516130_031 daftar kata sentimen bisa diberikan secara manual bisa melalui kamus bisa melalui korpus dan juga bisa melalui sentiwordnet
+*/13516130_032 dalam melakukan sentimen analisis ada beberapa tahap yang perlu dilakukan
+*/13516130_033 yang pertama kita harus menentukan apakah sebuah kalimat itu opini atau bukan karena mungkin aja kan ada kalimat yang bukan merupakan opini
+*/13516130_034 contohnya os samsung baru sudah rilis
+*/13516130_035 nah disini kan hanya menyatakan informasi dia tidak menyatakan opini
+*/13516130_036 tetapi kalo misalnya dia menyatakan bahwa os samsung baru tampilannya enak itu kan opini
+*/13516130_037 nah kita harus menentukan mana yang opini mana yang bukan
+*/13516130_038 kalimat yang merupakan opini setelah itu ditentukan polaritasnya apakah positif negatif atau netral
+*/13516130_039 setelah ditentukan polaritasnya kita harus menentukan kekuatan dari polaritas tersebut
+*/13516130_040 apakah sangat positif apakah sangat negatif atau positif saja dan seterusnya
+*/13516130_041 yang terakhir adalah tingkat yang paling tinggi yaitu kita harus bisa mengambil atribut dari objek serta nilai atribut tersebut
+*/13516130_042 contohnya kita harus bisa mengambil bahwa objek yang dinilai adalah samsung dan atributnya adalah tampilannya enak misalnya seperti itu
+*/13516130_043 nah fitur-fitur dasar dari sentimen analisis yang pertama adalah term dan bobotnya
+*/13516130_044 disini bisa diambil dari tf atau tf idf
+*/13516130_045 yang kedua jenis kata juga bisa menjadi fitur dasar
+*/13516130_046 selanjutnya daftar kata sentimen
+*/13516130_047 selanjutnya informasi sintaksis sentimen shifter dan rules of opinion
+*/13516130_048 nah terdapat beberapa permasalahan nih tapi dari sentimen analisis
+*/13516130_049 yang pertama itu adalah ner atau named entity recognition
+*/13516130_050 kita harus tau kan mana yang menjadi entitas
+*/13516130_051 contohnya itu kalo sulit adalah jika satu entitas lebih dari dua kata
+*/13516130_052 misalnya barack obama berhasil mengurangi titik titik titik
+*/13516130_053 nah barack obama ini kan adalah suatu entitas tetapi terdiri dari dua kata
+*/13516130_054 nah selain itu yang menjadi permasalahan adalah ironi atau sarkastik
+*/13516130_055 nah disini tuh banyak banget orang yang biasanya menyampaikan opini secara sarkastik
+*/13516130_056 salah satu contohnya adalah kalimat berikut
+*/13516130_057 pemerintah makin hebat saja ngambil mentri dari partai yang terkenal korupsi
+*/13516130_058 nah disini kan dia mengatakan bahwa pemerintah hebat kan
+*/13516130_059 padahal nyatanya dari partai yang terkenal korupsi itu adalah sesuatu yang buruk jadi ini merupakan kalimat sarkastik
+*/13516130_060 selanjutnya permasalahannya adalah jika menggunakan bahasa non formal
+*/13516130_061 banyak orang yang memberikan opini itu menggunakan bahasa sehari-hari atau bahkan ada juga yang menggunakan bahasa daerah
+*/13516130_062 nah ini merupakan kesulitan karena biasanya dalam sentimen analisis itu bahasa yang digunakan bahasa formal kalo berasal dari korpus dari kamus dan semacamnya
+*/13516130_063 selain itu kemasalahannya itu adalah tiap sentimen itu sangat bergantung terhadap konteks dan sangat bergantung terhadap domainnya
+*/13516130_064 contohnya nih misalnya ada kalimat baca bukunya aja
+*/13516130_065 nah ini adalah sebuah sentimen yang positif jika ini adalah review dari sebuah buku
+*/13516130_066 berarti seseorang menganjurkan orang lain untuk membaca buku tersebut
+*/13516130_067 berarti buku itu memiliki nilai yang bagus
+*/13516130_068 nah tetapi kalimat baca bukunya saja akan menjadi sentimen yang negatif jika domainnya adalah domain film
+*/13516130_069 jadi filmnya itu sangat buruk sehingga orang-orang menyuruh mereka membaca bukunya saja
+*/13516130_070 jadi sentimen analisis ini sangat dipengaruhi oleh domain
+*/13516130_071 selanjutnya jika tadi opini itu dapat didefinisikan oleh empat variabel berbeda dengan aspect based opini dimana aspect based opini didefinisikan oleh enam variabel
+*/13516130_072 yang pertama itu adalah variabel e atau entitas
+*/13516130_073 jadi kita harus mendefinisikan apa entitas dari opini tersebut
+*/13516130_074 yang kedua itu adalah aspek
+*/13516130_075 jadi entitas tersebut aspeknya apa
+*/13516130_076 yang ketiga itu adalah s yaitu nilai sentimennya
+*/13516130_077 lalu yang keempat adalah h yaitu pemegang opini dan yang terakhir adalah t yaitu waktu
+*/13516130_078 secara umum arsitektur dari sentimen analisis yang pertama adalah input
+*/13516130_079 sudah jelas bahwa kita harus menerima input baik itu dokumen ataupun kalimat
+*/13516130_080 setelah itu dari input kita melakukan ekstraksi fitur
+*/13516130_081 jadi kita mengambil fitur-fitur apa saja yang bisa diambil dari input tersebut
+*/13516130_082 nah untuk melakukan ekstraksi fitur kita bisa mendapat masukan dari kamus atau korpus dan semacamnya untuk membantu kita melakukan ekstraksi fitur
+*/13516130_083 setelah fitur sudah diekstraksi maka keluaran dari ekstraksi fitur akan diklasifikasi sentimennya
+*/13516130_084 nah klasifikasi sentimen ini bisa menggunakan model atau aturan
+*/13516130_085 nanti setelah dilakukan klasifikasi sentimen maka kita akan mendapatkan keluaran nilai sentimen tersebut apakah nilainya positif apakah nilainya negatif atau netral
+*/13516130_086 yang harus diperhatikan adalah bahwa dalam ekstraksi fitur akan ada perhitungan terhadap kata negasi
+*/13516130_087 nah hal ini dapat dilakukan menggunakan word window atau informasi sintaksis
+*/13516130_088 lalu dari sumber-sumber tersebut bisa ada pengetahuan berupa atribut dari sebuah objek dan nilai-nilai yang mungkin pada atribut tersebut
+*/13516130_089 contoh-contoh fitur dari sentimen analisis itu untuk unigram itu bisa menggunakan bag of words jadi kumpulan-kumpulan kata yang tidak perlu berurutan
+*/13516130_090 selain itu bisa juga bigram jadi kumpulan dua kata
+*/13516130_091 contohnya kalo untuk unigram adalah pemerintah koma makin koma hebat koma ambil dan seterusnya untuk bigram itu kumpulan dua kata yaitu pemerintah makin koma makin hebat koma hebat ambil koma ambil mentri dan seterusnya
+*/13516130_092 lalu bisa juga digunakan daftar kata
+*/13516130_093 nah terakhir ini kita akan membahas summarization opini atau kesimpulan dari opini
+*/13516130_094 jadi yang pertama kita akan melakukan feature identification sama seperti arsitektur umum sentimen analisis
+*/13516130_095 jadi kita misalnya menghasilkan aspek kualitas baterai aspek kualitas suara aspek kemudahan penggunaan dan semacamnya
+*/13516130_096 lalu yang kedua kita melakukan prediksi dari sentimen tersebut
+*/13516130_097 jadi apakah aspek kualitas baterai itu bagus apakah aspek kualitas suara itu bagus dan semacamnya
+*/13516130_098 setelah itu kita menyimpulkan untuk tiap aspek
+*/13516130_099 misalnya aspek baterai itu bagus dan aspek kualitas itu lebih bagus seperti itu
+*/13516130_100 sekian untuk materi sentimen analisis hari ini
+*/13516133_001 selamat pagi teman-teman
+*/13516133_002 untuk minggu ini kita akan mempelajari image enhancement
+*/13516133_003 nah, pertama apa itu image enhancement
+*/13516133_004 image enhancement adalah perbaikan kualitas citra
+*/13516133_005 tujuannya adalah untuk memperoleh citra yang lebih sesuai digunakan untuk aplikasi lebih lanjut
+*/13516133_006 contohnya kita ingin mengenali objek di dalam citra
+*/13516133_007 image enhancement adalah satu proses awal dalam pengolahan citra
+*/13516133_008 mengapa kita memerlukan image enhancement
+*/13516133_009 misalnya citra yang kita dapat mengandung derau, atau terlalu terang atau gelap, atau mengalami blurring
+*/13516133_010 kalau kita lihat pada ketiga gambar ini, gambar yang pertama mengalami noise, karena sangat banyak titik-titik putih yang tersebar pada gambar ini
+*/13516133_011 nah pada gambar kedua bisa kita lihat kontras dari citra ini terlalu gelap
+*/13516133_012 kemudian pada gambar ketiga adanya motion blurring yang biasa terjadi pada saat kita mengambil gambar dengan kamera
+*/13516133_013 berdasarkan ranah atau domain operasinya, metode-metode untuk perbaikan kualitas citra dapat dikelompokkan menjadi dua kategori berikut
+*/13516133_014 yang pertama adalah image enhancement dalam ranah spasial, yang kedua adalah dalam ranah frekuensi
+*/13516133_015 metode-metode image enhancement dalam ranah spasial dilakukan dengan <man> memanipulasi secara langsung pixel-pixel di dalam citra
+*/13516133_016 sedangkan untuk dalam ranah frekuensi, image tersebut diubah ke ranah frekuensi baru kemudian dimanipulasi nilai-nilai frekuensi tersebut lalu diubah kembali ke dalam ranah spasial
+*/13516133_017 masing-masing ranah operasi ini digunakan untuk tujuan yang spesifik, karena tidak semua perbaikan citra dapat dilakukan dalam ranah spasial
+*/13516133_018 nah, untuk materi minggu ini kita hanya akan membahas metode image enhancement dalam ranah spasial
+*/13516133_019 nah, misalkan terdapat suatu fungsi x atau x dan y yang merupakan nilai citra input, dan ada fungsi g x dan y yang merupakan nilai citra output, dan t adalah operator terhadap f
+*/13516133_020 metode <pe> pemrosesan citra dalam ranah spasial dinyatakan sebagai g x y sama dengan t f x y
+*/13516133_021 t bisa beroperasi pada satu pixel, sekelompok pixel yang bertetangga, ataupun keseluruhan pixel di dalam citra
+*/13516133_022 jadi, metode dalam ranah spasial dapat dilakukan pada aras atau level titik, aras lokal, dan aras global
+*/13516133_023 nah, ini adalah jenis-jenis image enhancement yang akan kita pelajari
+*/13516133_024 nah, proses proses yang termasuk ke dalam perbaikan kualitas citra
+*/13516133_025 contohnya adalah pengubahan kecerahan gambar atau image brightening, citra negatif atau image negative, peregangan kontras atau contrast stretching, pengubahan histogram citra, pelembutan citra atau image smoothing, penajaman sharpening, pewarnaan semu atau pseudocolouring, pengubahan geometrik, dan lain-lain
+*/13516133_026 nah, untuk pemrosesan dalam aras titik, t hanya beroperasi pada satu pixel
+*/13516133_027 t adalah fungsi transformasi nilai grayscale, sehingga ditulis s sama dengan t r, dengan s adalah variabel yang menyatakan nilai grayscale g x y, dan r adalah variabel yang menyatakan nilai grayscale f x y
+*/13516133_028 contoh-contoh image enhancement dalam aras titik adalah mencerahkan citra, menegatifkan citra, peregangan kontras, gamma correction, dan lain-lain
+*/13516133_029 nah, untuk pencerahan citra, kecerahan citra dapat diperbaiki dengan menambahkan atau mengurangkan sebuah konstanta kepada atau dari setiap pixel, atau mengalikan sebuah konstanta ke setiap pixel
+*/13516133_030 <ee> rumusnya menjadi r sama dengan s tambah b
+*/13516133_031 jika b positif, kecerahan citra akan bertambah
+*/13516133_032 sementara jika b negatif, kecerahan citra akan berkurang
+*/13516133_033 nah, kita memerlukan operasi clipping, jika nilai r ditambah b berada di bawah nilai intensitas minimum, atau di atas nilai intensitas maksimum
+*/13516133_034 nah, <un> contohnya untuk pixel dengan ukuran delapan bit, jika r ditambah b nilainya di atas dua ratus lima puluh lima, maka nilai s sama dengan dua lima lima
+*/13516133_035 sedangkan jika r ditambah b kecil dari nol, maka s sama dengan nol
+*/13516133_036 sekarang lihat kedua gambar ini
+*/13516133_037 di gambar yang kiri, citra zelda ini agak gelap
+*/13516133_038 nah, kalau kita tambahkan nilai b sama dengan seratus ke dalam citra tersebut, maka hasilnya adalah citra zelda di kanan yang lebih terang
+*/13516133_039 nah, operasi pencerahan yang lain bisa menggunakan rumus r sama dengan a s ditambah b, dengan a dan b adalah konstanta
+*/13516133_040 nah, yang kedua adalah menegatifkan citra
+*/13516133_041 nah, negatif citra ini mirip seperti film negatif pada fotografi
+*/13516133_042 jadi, <nem> pada gambar ini nilai yang berwarna hitam menjadi putih dan pixel yang berwarna putih menjadi hitam
+*/13516133_043 misalnya suatu citra memiliki l derajat keabuan
+*/13516133_044 nah, cara untuk menegatifkan citra ini adalah kita mengurangi nilai intensitas pixel dari nilai keabuan maksimum l kurang satu, sehingga rumusnya adalah s sama dengan l dikurang satu dikurang r
+*/13516133_045 contohnya pada citra grayscale delapan bit, rumusnya menjadi s sama dengan dua lima lima dikurang r
+*/13516133_046 proses ini bermanfaat bila area hitam sangat dominan di dalam citra, misalnya foto sinar x dan citra mammografi
+*/13516133_047 kemudian ada yang namanya perbaikan kontras
+*/13516133_048 nah, bagaimana perbaikan kontras itu dilakukan
+*/13516133_049 jadi, nilai-nilai pixel lebih kecil dari m dibuat lebih gelap, sedangkan nilai-nilai pixel yang lebih besar sama dengan m dibuat lebih terang
+*/13516133_050 operasi ini disebut sebagai peregangan kontras, atau contrast stretching
+*/13516133_051 nah, ada satu lagi operasi contrast stretching
+*/13516133_052 jadi, jika nilai-nilai pixel yang lebih kecil dari m dibuat menjadi hitam, dan nilai-nilai pixel yang lebih besar sama dengan m dibuat menjadi putih, maka operasi ini disebut operasi pengambangan, atau thresholding
+*/13516133_053 contohnya bisa dilihat pada ketiga gambar kakaktua ini
+*/13516133_054 ini adalah citra awalnya, kemudian dilakukan <pe> peregangan kontras, jadi kita masih bisa nampak nilai abu-abunya, dan di gambar sebelahnya lagi dilakukan operasi pengambangan, jadi nilai-nilai pixel ini hanya be hanya bernilai nol atau dua lima lima
+*/13516133_055 kemudian ada gray level slicing
+*/13516133_056 tujuannya adalah untuk menonjolkan atau highlight rentang keabuan tertentu di dalam citra
+*/13516133_057 contohnya adalah menonjolkan gumpalan air yang ada pada citra satelit, atau menonjolkan cacat yang ada pada citra sinar x
+*/13516133_058 dua pendekatan yang dilakukan dalam gray level slicing ini adalah yang pertama menampilkan lebih terang semua gray level di dalam rentang yang ingin ditonjolkan, dan menampilkan lebih gelap semua gray level lainnya
+*/13516133_059 ini disebut sebagai discard background
+*/13516133_060 yang kedua adalah menampilkan lebih terang semua gray level di dalam rentang yang ingin ditonjolkan, sembari tetap mempertahankan gray level lainnya
+*/13516133_061 metode ini disebut sebagai preserve background
+*/13516133_062 kemudian ada bit plane slicing
+*/13516133_063 tujuannya adalah menonjolkan kontribusi dari bit tentu di dalam citra
+*/13516133_064 misalkan satu pixel terdiri dari delapan bit
+*/13516133_065 bit-bit tersebut tersusun dari kiri ke kanan dalam urutan yang kurang berarti hingga bit-bit yang berarti
+*/13516133_066 susunan bit pada setiap byte menjadi b tujuh b enam b lima b empat b tiga b dua b satu dan b nol
+*/13516133_067 jika setiap bit dari setiap pixel diambil, maka akan diperoleh delapan buah bidang, atau bit plane
+*/13516133_068 nah, untuk minggu ini sekian dulu
+*/13516133_069 <ee> saya akan kasih tugas yaitu buatlah program image enhancement yang mengaplikasikan metode-metode ini, yaitu image brightening, contrast stretching, transformasi log dan inverse log nanti akan saya ajarkan, transformasi pangkat akan saya ajarkan juga, gray level slicing dan bit plane slicing
+*/13516133_070 selamat siang
+*/13516134_001 halo selamat pagi semua
+*/13516134_002 jadi hari ini kita akan ngebahas aspek-aspek psikologis
+*/13516134_003 nah apa aja sih aspek-aspek psikologis
+*/13516134_004 jadi yang pertama ada atensi
+*/13516134_005 atensi itu merupakan faktor mutlak bagi sesuatu usaha persuasi
+*/13516134_006 nah langkah pertama dalam proses persuasi ini adalah atention arousing
+*/13516134_007 atensi sendiri punya tiga jenis atau bentuk
+*/13516134_008 yang pertama involuntir
+*/13516134_009 yang kedua nonvoluntir
+*/13516134_010 yang ketiga itu nonvoluntir
+*/13516134_011 nah sifat atensi sendiri ada dua
+*/13516134_012 yang pertama nonatentif
+*/13516134_013 yang kedua inatentif
+*/13516134_014 jadi nonatentif ini punya empat bentuk perhatian
+*/13516134_015 yang pertama perhatian yang sifatnya serba suka
+*/13516134_016 yang kedua pandangan masyarakat seseorang yang sifatnya tidak menyetujui atau tidak senang terhadap yang bersangkutan
+*/13516134_017 ketiga itu situasi di mana perhatian seseorang ditarik oleh objek stimulus lain
+*/13516134_018 yang keempat adalah perhatian yang menetap dari seseorang atau orang banyak terhadap objek stimulus tertentu sehingga tidak dapat atau sukar tertarik pada objek yang lain
+*/13516134_019 nah usaha-usaha untuk menumbuhkan perhatian itu bisa melalui pengaruh stimulus
+*/13516134_020 gimana caranya ya begini
+*/13516134_021 pertama objek yang berubah-ubah atau bergerak
+*/13516134_022 yang kedua intensitas objek itu
+*/13516134_023 yang ketiga pengulangan
+*/13516134_024 keempat bentuk objek
+*/13516134_025 yang kelima hal baru dan aneh
+*/13516134_026 yang terakhir itu hubungan sekoyong-koyong dengan objek itu
+*/13516134_027 nah di sini tuh kita perlu tahu kondisi komunikan yang dapat dipergunakan sebagai landasan menumbuhkan perhatian
+*/13516134_028 yang pertama itu familiritas dengan objek
+*/13516134_029 yang kedua kepentingan
+*/13516134_030 ketiga ada hubungan langsung
+*/13516134_031 keempat kondisi fisik dalam psikologis komunikan
+*/13516134_032 yang ke lima itu feeling
+*/13516134_033 dan yang terakhir itu kegiatan komunikan
+*/13516134_034 interest sendiri itu penting dalam atensi karena interest itu adalah rasa tertarik seseorang atau orang banyak terhadap suatu objek tertentu
+*/13516134_035 ada tiga unsur tersirat dalam pengertiannya
+*/13516134_036 yang pertama itu seseorang atau orang banyak yang punya rasa tertarik itu
+*/13516134_037 yang kedua objek yang menimbulkan rasa tertarik itu
+*/13516134_038 dan yang terakhir kualitas daya tarik objek tersebut
+*/13516134_039 oke selanjutnya itu proses penginderaan
+*/13516134_040 jadi tuh sensasi tuh dari mana sih <eee> dirasakan
+*/13516134_041 pertama itu kita perlu ada fenomena yang terjadi
+*/13516134_042 dari fenomena itu kita akan memproses melalui penginderaan atau bisa dibilang sensorik
+*/13516134_043 lalu proses penginderaan ini berkaitan dengan alat-alat indera
+*/13516134_044 nah kita tuh punya apa aja sih alat-alat indera
+*/13516134_045 itu kita ada telinga mata kinestesi dan orientansi hidung lidah dan kulit
+*/13516134_046 nah jadi kalau ada alurnya kita dapat stimulus
+*/13516134_047 stimulus ini dari luar misalnya objek
+*/13516134_048 kemudian stimulus ini memberikan kita sensasi
+*/13516134_049 kita merasakan sensasi ini melalui alat indera
+*/13516134_050 lalu dari sensasi itu kita membentuk persepsi atau permaknaan
+*/13516134_051 nah permaknaan ini <eee> bisa tergantung beberapa hal berikut
+*/13516134_052 misalnya hasrat harapan motivasi pengalaman ingatan pengetahuan atau mungkin ada faktor-faktor lain
+*/13516134_053 nah dari <e> persepsi itu kita kemudian bisa memberikan respon
+*/13516134_054 respon itu bisa bela seperti tindakan atau perilaku
+*/13516134_055 nah untuk proses penginderaan itu <ee> tergantung dari alat indera
+*/13516134_056 nah itu tuh tahap mendasar banget dari manusia
+*/13516134_057 dia tuh menerima stimuli kemudian mengembalikannya lagi kepada lingkungan
+*/13516134_058 jadi bisa dibilang sensasi itu adalah pengalaman elementer yang segera yang belum memerlukan pengurangan verbal atau simbolis atau konseptual dengan terutama sekali berhubungan dengan alat indera
+*/13516134_059 tapi dalam kehidupan nyata kita jarang hanya mengalami sensasi sederhana yang ditimbulkan stimuli yang melanda indera seperti warna terang nada aroma dan sebagainya
+*/13516134_060 persepsi itu bekerja memodifikasi atau mengintegrasikan sensasi sehingga kita memberikan arti atau makna terhadap apa yang kita alami
+*/13516134_061 nah alat indera sendiri merupakan saluran yang terdiri dari pertama reseptor
+*/13516134_062 reseptor itu adalah sel yang peka terhadap rangsangan
+*/13516134_063 kedua serabut saraf
+*/13516134_064 serabut saraf ini yang meneruskan impuls dari reseptor menuju otak atau sum-sum tulang belakang
+*/13516134_065 yang ketiga itu relay stations sebagai area proses dalam otak
+*/13516134_066 nah sensasi ini terjeda terjadi ketika saluran indera mengalami stimulasi
+*/13516134_067 nah reseptor-reseptor indera itu ada apa aja sih
+*/13516134_068 yang pertama ada eksteroseptor
+*/13516134_069 ini tuh reseptor yang menerima atau menangkap informasi dari luar tubuh atau biasa kita kenal sebagai panca indera
+*/13516134_070 yang kedua introseptor
+*/13516134_071 re itu reseptor yang mengolah informasi dalam tubuh seperti gerakan peristaltik usus pernafasan detak jantung atau tekanan darah
+*/13516134_072 yang ketiga ada proprioseptor
+*/13516134_073 ini tuh reseptor yang menangkap informasi orientasi dan gerakan tubuh atau kinestesi
+*/13516134_074 nah semua indera ini pasti punya sensitivas
+*/13516134_075 dia tuh tergantung terhadap intensitas itu diukur dengan ambang mutlak atau terhadap perubahan intensitas itu tuh diukur dengan perbedaan ambang
+*/13516134_076 nah untuk ambang absolutnya itu bisa kita hitung dengan jumlah energi minimal stimulus yang diperlukan untuk terjadinya deteksi
+*/13516134_077 jadi kalau misalnya mau kita ngebahas ini dari sisi biologis dan psikologis
+*/13516134_078 sensasi itu kalau dari sisi biologis adalah proses sensorik berkaitan dengan organ indera
+*/13516134_079 sedangkan kalau psikologis itu sensasi itu adalah pengalaman yang ditimbulkan stimuli sederhana
+*/13516134_080 nah untuk persepsi sendiri dari biologis kita bisa ngelihat itu tuh sebagai proses perseptual berkaitan dengan sistem saraf tingkat tinggi
+*/13516134_081 sedangkan dari sisi psikologis persepsi itu sebagai hasil integrasi atau modifikasi dari sensasi
+*/13516134_082 nah untuk penginderaan visual sendiri dalam desain komvis atau interior termasuk arsitektur indera mata atau visual menempati posisi yang paling vital karena sebagian besar karya-karya desain atau karya arsitektural merupakan objek yang memberi sensasi langsung pada mata
+*/13516134_083 kemudian pengalaman visual itu akan semakin bernilai ketika mendapatkan sensasi lain yang ditimbulkan dari misalnya tekstur bahan pelapis kursi desiran angin atau gemercik air di taman aroma wewangian bunga yang tercium dari jambangan sehingga membuat hati merasa makin nyaman dan senang
+*/13516134_084 lalu kenapa meng demikian gitu
+*/13516134_085 sistem ini sistem indera ini sekaligus memiliki kemampuan untuk saling bekerja sama atau berintegrasi
+*/13516134_086 hal ini dikenal sebagai istilah sinestesi atau di mana pengalaman atau fenomena sensasi dapat ditimbulkan atas hasil integrasi berbagai indera yang memberikan secara serempak atau stimulan
+*/13516134_087 nah untuk mekanisme kerja alat indera sendiri pertama itu dia ada energi fisik dalam dunia sekitar kita yang berubah menjadi aktivitas pada sistem saraf
+*/13516134_088 kemudian proses majuk suknya energi fisik ke dalam aktivitas sistem saraf disebut transduksi
+*/13516134_089 transduksi terjadi pada sel reseptor kemudian dikonversi dari energi
+*/13516136_001 ya selamat pagi semua jadi hari ini kita akan belajar satu lagi algoritma baru 
+*/13516136_002 nah jika sebelumnya kita sudah belajar apa itu algoritma kali ini kita belajar satu lagi jenis algoritma yaitu namanya algoritma greedy 
+*/13516136_003 nah ini kan ya sesuai dengan pelajaran kita if2211 strategi algoritma 
+*/13516136_004 nah disini teman-teman bisa lihat bahwa sebenarnya algoritma greedy itu adalah merupakan metode yang paling populer untuk memecahkan persoalan optimasi karena memang selain mudah dalam diaplikasikan ya algoritma greedy ini memang cepat dalam hal komputasi 
+*/13516136_005 nah cuman permasalahannya selalu di bagian optimasi dimana bagaimana caranya mencari solusi yang paling optimum 
+*/13516136_006 nah biasanya ada dua macam persoalan optimasi ini bagaimana memaksimasi dan bagaimana meminimasi 
+*/13516136_007 nah contoh persoalan optimasi yang dimaksud disini contohnya satu itu persoalan penukaran uang 
+*/13516136_008 misalnya diberikan uang senilai a tukar a dengan koin-koin uang yang ada berapa jumlah minimum koin yang diperlukan untuk penukaran tersebut 
+*/13516136_009 nah ini kan persoalan minimasi nih 
+*/13516136_010 nah ini cocok untuk <dila> dikerjakan diselesaikan dengan pendekatan algoritma greedy 
+*/13516136_011 nah contoh satunya ini <tsedia> banyak koinnya itu satu lima sepuluh dua lima 
+*/13516136_012 terus uangnya senilai tiga puluh dua 
+*/13516136_013 nah dapat ditukar banyak cara seperti ya misalnya tiga puluh dua koin satu atau tujuh koin lima <ek> tujuh koin yang empatnya itu koin lima satu koin sepuluh dua koin satu 
+*/13516136_014 bisa juga lima koin dengan tiga koin sepuluh dua koin satu dan paling minimum empat koin dua lima satu lima satu sama dua koin satu 
+*/13516136_015 nah contoh-contoh seperti inilah yang yang dapat dengan baik diselesaikan dengan <al> pendekatan algoritma greedy 
+*/13516136_016 nah sekarang kita belajar prinsipnya dulu 
+*/13516136_017 nah greedy itu sendiri artinya adalah rakus tamak loba 
+*/13516136_018 nah jadi sebenarnya prinsip dari algoritma greedy ini take what you can get now atau ambil yang bisa kamu dapatkan sekarang 
+*/13516136_019 nah algoritma greedy ini membentuk solusi langkah per langkah 
+*/13516136_020 di setiap langkahnya itu terdapat banyak pilihan yang perlu dievaluasi 
+*/13516136_021 oleh karena itu pada setiap langkah harus dibuat keputusan yang terbaik dalam menentukan pilihan 
+*/13516136_022 <nahm> di di disetiap langkah itu ketika kita membuat pilihan yang diambil sebenarnya adalah langkah yang optimum lokal yang mana yang dianggap paling baik pada detik itu juga 
+*/13516136_023 dengan harapan sebenarnya bahwa langkah tersebut mengarah ke solusi optimum global 
+*/13516136_024 walaupun ya di dalam algoritma greedy ini tidak ada jaminan 
+*/13516136_025 nah algoritma greedy dalam memecahkan masalah itu per langkah-langkahnya seperti ini kira-kira 
+*/13516136_026 <dis> <yak> pertama pada setiap langkah mengambil pilihan yang terbaik yang dapat diperoleh pada saat itu tanpa memperhatikan konsekuensi ke depan 
+*/13516136_027 yang kedua terus berharap bahwa dengan memilih optimum lokal pada setiap langkah akan berakhir dengan optimum global 
+*/13516136_028 kira-kira seperti itu ringkasnya
+*/13516136_029 nah kita tinjau sekarang masalah yang tadi penukaran uang 
+*/13516136_030 nah strategi greedy berarti apa
+*/13516136_031 pada setiap langkah pilihlah koin dengan nilai terbesar dari himpunan koin yang tersisa 
+*/13516136_032 misal a tiga dua koin yang tersedia satu lima sepuluh dan dua lima 
+*/13516136_033 langkah satu berarti yang dipilih adalah dua lima 
+*/13516136_034 terus angka kedua karena sisanya dah tinggal tujuh belas maka yang diambil satu buah 
+*/13516136_035 langkah keduanya nah <eumm> ya mungkin saya kurang paham yang di bagian ini jadi kita lanjutkan saja 
+*/13516136_036 nah jadi elemen-elemen algoritma greedy itu sendiri ada lima 
+*/13516136_037 yang pertama itu ada namanya himpunan kandidat biasanya disingkat dengan c 
+*/13516136_038 terus yang kedua adalah himpunan solusi yang disebut sebagai s 
+*/13516136_039 terus ada juga fungsi seleksi 
+*/13516136_040 ada juga fungsi kelayakan 
+*/13516136_041 ada juga fungsi objektif 
+*/13516136_042 dengan kata lain algoritma greedy melibatkan pencarian sebuah himpunan bagian s dari himpunan kandidat c yang dalam hal ini s harus memenuhi beberapa kriteria yang ditentukan yaitu menyatakan suatu solusi dan s dioptimasi oleh fungsi objektif 
+*/13516136_043 nah pada masalah penukaran uang himpunan kandidatnya sendiri adalah himpunan koin yang merepresentasikan nilai satu lima sepuluh dua lima 
+*/13516136_044 paling sedikit mengandung satu koin untuk setiap nilai 
+*/13516136_045 sedangkan himpunan solusinya itu total nilai koin yang dipilih tepat sama jumlahnya <dengen> dengan nilai uang yang ditukarkan 
+*/13516136_046 terus fungsi seleksinya pilihlah koin yang bernilai tertinggi dari himpunan kandidat yang tersisa 
+*/13516136_047 terus fungsi layaknya memerika apakah nilai total dari himpunan koin yang terpilih terpilih dipilih tidak melebihi jumlah uang yang harus dibayar 
+*/13516136_048 terus fungsi objektifnya kapan harus selesainya tadi 
+*/13516136_049 ya ketika jumlah koin yang digunakan adalah minimum 
+*/13516136_050 nah di dalam <fung> dalam algoritma greedy ini sendiri ya terdapat optimum global itu belum tentu merupakan solusi optimum 
+*/13516136_051 tetapi sub optimum atau pseudo optimum 
+*/13516136_052 alasannya algoritma greedy tidak beroperasi secara menyeluruh terhadap semua alternatif solusi yang ada 
+*/13516136_053 sebagaimana pada ya algoritma yang sebelumnya yang kita pelajari yang itu exhaustive search dan terdapat beberapa fungsi seleksi yang berbeda 
+*/13516136_054 sehingga ya kita harus memilih fungsi yang tepat jika kita ingin algoritma ini menghasilkan solusi yang optimal 
+*/13516136_055 jadi sebenarnya pada sebagian besar masalah algoritma greedy tidak selalu berhasil memberikan solusi yang optimal 
+*/13516136_056 nah jadi seperti itu 
+*/13516136_057 nah persoalannya berbeda lagi 
+*/13516136_058 contohnya kalau di mata uang dollar amerika serikat atau euro eropa atau crown swedia 
+*/13516136_059 algoritma greedy selalu memberikan solusi optimum 
+*/13516136_060 contoh enam koma tiga sembilan ditukar dengan uang kertas dan koin sen 
+*/13516136_061 kita dapat memilih ya <le> <se> <sa> satu buah uang kertas lima satu buah uang kertas senilai satu dollar satu koin dua puluh lima sen satu koin sepuluh sen empat koin satu sen 
+*/13516136_062 nah kenapa ini bisa selalu tepat karena ya memang ada sen disana 
+*/13516136_063 jadi relatif lebih bisa diselesaikan dengan algoritma greedy persoalan-persoalan penukaran mata uangnya 
+*/13516136_064 nah tapi sebenarnya jika jawaban terbaik mutlak <ti> tidak diperlukan maka algoritma greedy bisa dipakai menjadi <eum> opsi yang utama karena bisa menghasilkan solusi hampiran yang <mendeka> yang cukup mendekati 
+*/13516136_065 ya daripada menggunakan algoritma yang lebih rumit untuk menghasilkan solusi yang eksak itu kan relatif membutuhkan waktu yang banyak 
+*/13516136_066 sedangkan kalo algoritma greedy terkadang bisa juga optimum tapi setidaknya ada hampiran mendekati solusi yang optimum 
+*/13516136_067 nah sebenarnya <eum> agar pemilihan koin berikutnya optimum sebenarnya untuk masalah tadi himpunan koin dalam urutannya menurun bisa diselesaikan dengan cara yang lain 
+*/13516136_068 nah tapi kali ini kita akan bahas yang lainnya saja 
+*/13516136_069 nah disini ada persoalan terakhir kita mau bahas tentang integer knapsack yang sudah dijelaskan di minggu yang sebelumnya 
+*/13516136_070 nah persoalannya disini kalau ini diselesaikan dengan <eum> pendekatan algoritma greedy caranya berarti masukkan objek satu per satu ke dalam knapsack 
+*/13516136_071 sekali objek dimasukkan ke dalam knapsack objek tersebut tidak bisa dikeluarkan lagi 
+*/13516136_072 nah terdapat beberapa strategi greedy yang heuristik yang dapat digunakan untuk memilih objek yang akan dimasukkan ke dalam knapsack 
+*/13516136_073 nah pertama greedy by profit 
+*/13516136_074 disini pada setiap langkah pilih objek yang mempunyai keuntungan terbesar 
+*/13516136_075 <nee> motivasinya yaitu mencoba memaksimumkan keuntungan dengan memilih objek yang paling menguntungkan terlebih dahulu 
+*/13516136_076 terus bisa greedy by weight pada setiap langkah pilih setiap objek yang mempunyai berat teringan 
+*/13516136_077 sehingga mencoba memaksimalkan keuntungan dengan memasukkan sebanyak mungkin barang ke dalam knapsack 
+*/13516136_078 yang ketiga itu greedy by density pada setiap langkah knapsack diisi dengan objek yang mempunyai <eum> berat profit per berat yang terbesar 
+*/13516136_079 dengan disini motivasinya mencoba memaksimumkan keuntungan dengan memilih objek yang mempunyai keuntungan per unit berat terbesar 
+*/13516136_080 nah pemilihan objek ini berdasarkan salah satu dari ketiga strategi diatas tidak menjamin akan memberikan solusi optimal 
+*/13516136_081 ya terlihat sendiri ya bahwa sebenarnya setiap kasus pasti ada yang akan tidak mencapai optimum globalnya 
+*/13516136_082 nah kalau penasaran bagaimana contoh kasusnya bisa dilihat seperti di slide 
+*/13516136_003 nah jadi yang bisa disimpulkan disini adalah sebenarnya algoritma greedy tidak akan selalu berhasil menemukan solusi optimal untuk masalah knapsack 
+*/13516136_084 tetapi untuk contoh kasus knapsack yang lain yaitu fractional knapsack nah ini bisa 
+*/13516136_085 nah itu nanti teman-teman boleh cari di internet 
+*/13516136_086 minggu depan akan dikumpulkan menjadi tugas 
+*/13516136_087 silahkan cari bagaimana algoritma greedy untuk permasalahan fractional knapsack itu bisa diselesaikan dengan optimum selalu 
+*/13516136_088 <yak> jadi demikian kelas kita pada hari ini kelas dibubarkan
+*/13516139_001 Oke selamat siang semua, sekarang kita akan melanjutkan materi dari minggu lalu
+*/13516139_002 Pada minggu lalu kita semua sudah belajar tentang bagaimana membuat desain interaksi berdasarkan perspektif dari permasalahan pengguna
+*/13516139_003 Kita ulang sedikit materi pada minggu lalu, yaitu tentang desain yang berpusat pada pengguna
+*/13516139_004 Dalam paradigma desain tersebut, terdapat beberapa fase yang setidaknya terdapat dalam langkah-langkah pengerjaan yang dilakukan oleh desainer
+*/13516139_005 Langkah pertama, desainer harus memahami konteks penggunaan produk
+*/13516139_006 Hal tersebut dimaksudkan untuk memahami permasalahan ataupun tujuan produk tersebut dibuat
+*/13516139_007 Langkah kedua, desainer melakukan riset untuk mencari kebutuhan maupun permasalahan dari sisi pengguna
+*/13516139_008 Riset tersebut dapat dilakukan dengan berbagai macam cara, diantaranya adalah dengan wawancara, pembuatan kuesioner, maupun dengan melakukan pengamatan secara langsung
+*/13516139_009 Langkah ketiga yaitu proses iterasi pembuatan desain produk
+*/13516139_010 Pada tahap ini, dilakukan pembuatan prototipe desain berdasarkan riset dari analisa kebutuhan pengguna dan produk yang sebelumnya telah dilakukan
+*/13516139_011 Proses desain dilakukan secara iteratif, yaitu desainer membuat beberapa versi desain yang kemudian akan dibandingkan satu sama lain
+*/13516139_012 Hal tersebut berguna untuk mencari beberapa versi desain yang sesuai dengan kebutuhan
+*/13516139_013 Tahap terakhir adalah proses evaluasi dan perbaikan desain
+*/13516139_014 Evaluasi dilakukan dengan cara melakukan pengujian produk kepada target pengguna
+*/13516139_015 Tujuannya adalah untuk mendapatkan timbal balik dari desain produk yang telah dibuat
+*/13516139_016 Apabila terdapat kesalahan desain, desainer selanjutnya akan melakukan perbaikan terhadap desain tersebut
+*/13516139_017 Keseluruhan proses dilakukan secara iteratif, dengan artian bahwa beberapa langkah dapat dilakukan beberapa kali hingga didapat hasil yang diinginkan
+*/13516139_018 Sekarang kita lanjut ke materi selanjutnya, yaitu materi tentang pembuatan prototipe desain
+*/13516139_019 Secara garis besar, prototipe dibagi menjadi tiga jenis
+*/13516139_020 Jenis pertama adalah prototipe wireframe
+*/13516139_021 Jenis kedua adalah prototipe low-fidelity
+*/13516139_022 Jenis ketiga adalah prototipe high-fidelity
+*/13516139_023 Pertama kita bahas dulu apa itu prototipe wireframe
+*/13516139_024 Pa, pada prototipe jenis ini, desain yang dibuat hanyalah kerangka kasar yang menggambarkan tata letak isi, konten, maupun alur penggunaan
+*/13516139_025 Apabila kamu sering melihat desain aplikasi yang hanya berwarna abu-abu dengan tampilan kasar dan cenderung kosong, kemungkinan besar itu adalah prototipe wireframe
+*/13516139_026 Wireframe dibuat tanpa warna dan hanya menggambarkan kerangka tampilan untuk menghindari bias saat membuat desain, sehingga desainer dan calon pengguna hanya berfokus pada fungsionalitas utama produk saja
+*/13516139_027 Wireframe juga dibuat secara manual menggunakan tangan dan alat tulis
+*/13516139_028 Namun seiring waktu, wireframe juga dapat dibuat menggunakan perangkat lunak yang tersedia di pasaran
+*/13516139_029 Selanjutnya kita bahas tentang prototipe low-fidelity atau yang sering disingkat sebagai lofi
+*/13516139_030 Prototipe lofi merupakan bentuk lanjutan dari prototipe wireframe
+*/13516139_031 Bedanya adalah lofi sudah dalam bentuk prototipe digital, dan merupakan versi yang sudah lebih detail dibandingkan wireframe
+*/13516139_032 Pada fase ini, di dapat dilakukan pengujian kepada target pengguna, dengan hanya fokus kepada struktur tampilan dan alur penggunaannya saja
+*/13516139_033 Dalam pembuatannya bisa menggunakan perangkat lunak untuk desain
+*/13516139_034 Jenis terakhir yang belum kita bahas adalah prototipe high-fidelity atau yang sering disingkat sebagai hifi
+*/13516139_035 Prototipe hifi merupakan bentuk tertinggi dalam prototipe, yang sudah memiliki detail berupa warna, contoh konten, maupun komponen-komponen kecil yang hanya berfungsi sebagai hiasan saja
+*/13516139_036 Prototipe hifi adalah bentuk terdekat yang paling menyerupai produk asli nantinya, dengan interaksi yang sudah bisa dicoba oleh target pengguna
+*/13516139_037 Cara pembuatannya pun bermacam-macam, bisa membuat versi desainnya saja dengan perangkat lunak, ataupun bisa membuat prototipe langsung dengan bahasa pemrograman apabila memungkinkan
+*/13516139_038 Cara pertama adalah cara yang paling sering dipakai oleh desainer, karena untuk membuat produk secara langsung membutuhkan tenaga dan waktu yang bisa saja tidak sedikit meskipun itu hanya prototipe
+*/13516139_039 Dalam membuat prototipe hifi, desain harus benar-benar sudah mendekati produk aslinya
+*/13516139_040 Hal ini dikarenakan desain akan dilakukan pengujian akhir sebelum masuk fase pengembangan produk
+*/13516139_041 Jadi dari segi warna, konten, interaksi dan semacamnya harus sudah didesain dengan baik
+*/13516139_042 Bahkan sebisa mungkin tidak ada konten placeholder
+*/13516139_043 Nah, barusan sudah kita bahas mengenai garis besar jenis-jenis prototipe yang sering dikembangkan dalam pembuatan desain produk
+*/13516139_044 Ketiga prototipe tersebut hampir bisa dipastikan muncul dalam setiap pengembangan desain, jadi ada baiknya bila kalian memahami betul berbagai prototipe tersebut
+*/13516139_045 Selanjutnya kita akan bahas beberapa aspek penting yang tidak boleh dilewatkan dalam membuat desain prototipe
+*/13516139_046 Kali ini mungkin kita lebih fokus ke prototipe hifi dulu ya
+*/13516139_047 Yang pertama adalah warna
+*/13516139_048 Dalam membuat desain, penting untuk mengetahui warna yang cocok dan sesuai dengan kebutuhan pengguna
+*/13516139_049 Contohnya saja warna merah atau oranye pada restoran, warna biru pada desain bank, dan lain-lain
+*/13516139_050 Setiap warna memiliki makna tersendiri dalam desain, sehingga desainer tidak bisa sembarangan dalam memilih warna
+*/13516139_051 Dalam dunia psikologi warna, terdapat beberapa aspek yang harus diperhatikan
+*/13516139_052 Antara lain emosi warna, industri yang cocok, dan penggunaan dari warna itu sendiri
+*/13516139_053 Contohnya warna merah memunculkan emosi energik, perhatian, dan semangat
+*/13516139_054 Maka warna merah sering digunakan dalam industri makanan, olahraga, hiburan, dan sejenisnya
+*/13516139_055 Warna merah yang cenderung terang dan kontras sering dipakai untuk menarik perhatian konsumen agar mau memakai produk tersebut
+*/13516139_056 Contoh lain adalah warna biru yang melambangkan kejujuran, kepercayaan, dan tanggung jawab
+*/13516139_057 Maka dari itu warna biru sering kita temui dalam industri profesional, misalnya industri perbankan, keuangan, kesehatan, dan teknologi
+*/13516139_058 Warna juga bisa berdampak bagi psikologi pengguna, misalnya warna biru yang berguna sebagai relaksasi ataupun warna hijau yang menenangkan
+*/13516139_059 Aspek kedua adalah struktur konten
+*/13516139_060 Dalam dunia desain, terdapat suatu istilah penting yang mendefinisikan struktur konten yang terdapat dalam suatu desain berikut pula aksesibilitas masing-masing bagian
+*/13516139_061 Struktur tersebut bernama Arsitektur Informasi
+*/13516139_062 Arsitektur Informasi adalah suatu ilmu yang mengatur susunan konten dalam desain, umumnya desain produk digital seperti aplikasi dan sejenisnya
+*/13516139_063 Arsitektur ini bertujuan untuk mengatur konten dan halaman sehingga pengguna bisa mudah beradaptasi dengan desain tersebut dan memahami alur penggunaan aplikasi dengan baik
+*/13516139_064 Arsitektur Informasi didefinisikan sebagai graf dengan setiap komponen adalah halaman aplikasi, yang merupakan titik asal penggunaan ataupun lanjutan dari tampilan sebelumnya
+*/13516139_065 Untuk mendefinisikan struktur konten, desainer perlu mempertimbangkan beberapa aspek
+*/13516139_066 Misalnya apakah itu aplikasi mobile atau web, kemudian target pengguna, dan juga tipe produk dan tujuan perusahaan
+*/13516139_067 Contohnya saja, struktur konten pada web blog dan web e-commerce berbeda jauh satu sama lain
+*/13516139_068 Arsitektur Informasi merupakan kerangka utama dari suatu desain, umumnya disusun bahkan sejak masih dalam tahap desain wireframe
+*/13516139_069 Dalam membuat arsitektur, terdapat beberapa jenis struktur organisasi konten
+*/13516139_070 Jenis pertama adalah struktur hierarki
+*/13516139_071 Hierarki visual bertujuan memberi gambaran jelas kepada user bahwa konten pada aplikasi tersusun dengan jelas dan baik
+*/13516139_072 Pada umumnya, desain aplikasi menggunakan struktur konten hierarki karena struktur ini paling mudah dipahami oleh pengguna secara umum
+*/13516139_073 Jenis kedua adalah struktur sekuensial
+*/13516139_074 Struktur ini memberikan gambaran bahwa konten aplikasi diakses secara berurut dengan langkah tertentu
+*/13516139_075 Struktur sekuensial umumnya digunakan dalam suatu alur tertentu, seperti alur pembelian barang yang terdiri dari pemesanan, pembayaran, pengiriman, dan lain-lain
+*/13516139_076 Jenis ketiga adalah struktur matriks
+*/13516139_077 Struktur ini merupakan struktur yang cukup kompleks untuk dipahami, karena pengguna diberikan kebebasan untuk mengakses konten manapun tanpa adanya hierarki yang baku
+*/13516139_078 Contohnya pengguna melakukan navigasi konten yang disusun berdasarkan tanggal, topik, ataupun kategori tertentu yang dipilih sendiri
+*/13516139_079 Aspek terakhir adalah ilustrasi dan tulisan
+*/13516139_080 Penggunaan keduanya penting untuk memberikan kesan ramah dan komunikatif kepada pengguna
+*/13516139_081 Ilustrasi umum digunakan untuk mendefinisikan branding produk agar lekat dengan pengguna
+*/13516139_082 Ilustrasi juga berguna untuk memberikan karakter pada desain aplikasi sehingga bisa lebih diingat oleh pengguna
+*/13516139_083 Untuk pemakaian ilustrasi adalah pada pesan error ataupun status pada aplikasi
+*/13516139_084 Penggunaan tulisan juga su sangat penting untuk diperhatikan, karena dengan cara tersebut aplikasi berkomunikasi dengan penggunanya
+*/13516139_085 Hal yang harus diperhatikan misalnya dengan tidak membuat kalimat terlihat seperti berteriak, ataupun penggunaan diksi yang tepat sesuai dengan target penggunanya
+*/13516139_086 Nah, hari ini kita sudah selesai belajar materi tentang desain berpusat pengguna sekaligus materi tentang berbagai macam prototipe
+*/13516139_087 Tentunya materi ini harus diulang sendiri hingga paham dengan baik
+*/13516139_088 Dan juga kalian harus sering mencari inspirasi dari internet untuk mengikuti tren desain yang beredar sekarang ini
+*/13516139_089 Karena cara belajar yang paling ampuh adalah dengan latihan
+*/13516139_090 Nah agar kalian latihan, ini ada tugas kelompok yang harus dikumpulkan dua minggu lagi
+*/13516139_091 Coba cari materi tambahan di internet agar kalian paham praktiknya seperti apa
+*/13516139_092 Sekian pertemuan hari ini, terima kasih, dan selamat siang
+*/13516144_001 halo selamat pagi
+*/13516144_002 untuk sepuluh menit ke depan saya adalah dosen fisika anda
+*/13516144_003 mari kita memulai materi fisika dengan bab pertama yaitu bab pengukuran
+*/13516144_004 sains dan engineering didasarkan pada pengukuran dan perbandingan
+*/13516144_005 oleh karena itu kita memerlukan aturan-aturan tentang bagaimana sesuatu itu diukur dan dibandingkan dan kita juga memerlukan eksperimen untuk menciptakan satuan dari pengukuran dan perbandingan tersebut
+*/13516144_006 salah satu tujuan dari fisika dan engineering adalah untuk merancang dan melaksanakan eksperimen tersebut
+*/13516144_007 contohnya seorang ahli fisika berusaha untuk mengembangkan jam dengan akurasi yang tinggi sehingga waktu kapan pun atau interval waktu dapat ditentukan dan dibandingkan dengan tepat
+*/13516144_008 anda mungkin bertanya-tanya apakah akurasi benar-benar dibutuhkan atau sepadan dengan kerja keras yang dilakukan
+*/13516144_009 ini contohnya 
+*/13516144_010 tanpa adanya jam dengan akurasi yang tinggi gps yang saat ini sangat vital untuk sistem navigasi dunia tidak akan berguna
+*/13516144_011 kita memperdalam ilmu fisika dengan mempelajari bagaimana mengukur besaran yang ada dalam fisika
+*/13516144_012 di antara besaran-besaran tersebut adalah panjang waktu massa suhu tekanan dan arus listrik
+*/13516144_013 kita mengukur setiap besaran fisik dalam satuannya masing-masing menggunakan perbandingan terhadap suatu standar
+*/13516144_014 satuan adalah nama unik yang kita tetapkan untuk mengukur besaran tersebut misalnya meter untuk besaran panjang
+*/13516144_015 sebuah nilai baku yang sesuai dengan satu satuan besaran
+*/13516144_016 seperti yang dapat anda lihat standar untuk panjang yang sesuai dengan tepat satu meter adalah jarak yang ditempuh cahaya dalam ruang hampa selama fraksi waktu tertentu
+*/13516144_017 kita dapat mendefinisikan satuan dan standarnya dengan cara apa pun yang kita inginkan
+*/13516144_018 namun yang terpenting adalah untuk melakukannya dengan suatu cara di mana para ilmuwan di seluruh dunia setuju bahwa definisi yang kita buat tersebut masuk akal dan praktis
+*/13516144_019 begitu kita telah menetapkan standar
+*/13516144_020 misalnya untuk panjang
+*/13516144_021 kita harus menyusun prosedur di mana setiap besaran panjang apapun baik itu jari-jari atom hidrogen jarak roda skateboard atau jarak ke bintang atau jarak antar kota dapat dinyatakan dalam suatu standar
+*/13516144_022 penggaris ini contohnya yang digunakan untuk mengukur standar panjang memberikan kita salah satu prosedur dalam mengukur panjang
+*/13516144_023 meskipun demikian beberapa alat pembanding yang kita miliki harus digunakan dengan cara tidak langsung
+*/13516144_024 sebagai contoh anda tidak dapat menggunakan penggaris untuk mengukur jari-jari atom atau jarak ke bintang
+*/13516144_025 terdapat banyak sekali besaran fisika sehingga sulit untuk mengelompokkannya
+*/13516144_026 untungnya tidak semua besaran berdiri sendiri 
+*/13516144_027 misalnya laju adalah rasio antara jarak dan waktu
+*/13516144_028 jadi yang kita lakukan adalah memilih dengan persetujuan internasional sejumlah kecil besaran fisika dalam contoh ini adalah panjang dan waktu kemudian menetapkan standar untuk masing-masing besaran tersebut
+*/13516144_029 kemudian kita mendefinisikan besaran fisika lainnya dalam besaran pokok tersebut dan menggunakan standar yang digunakannya atau yang kita sebut standar pokok
+*/13516144_030 sebagai contoh laju yang tadi didefinisikan dalam besaran pokok panjang dan waktu dan menggunakan standar pokok keduanya
+*/13516144_031 standar pokok harus dapat diperoleh dan seragam atau tetap
+*/13516144_032 bila kita mendefinisikan standar panjang sebagai jarak antara hidung seseorang dengan ujung jari telunjuk dari lengan yang diregangkan pastinya kita akan mendapat standar yang mudah diperoleh tetapi tentunya akan berbeda-beda untuk tiap orang 
+*/13516144_033 kebutuhan akan ketelitian dalam sains dan engineering menuntut kita untuk mendahulukan keseragaman
+*/13516144_034 setelah itu barulah kita berusaha semaksimal mungkin untuk membuat duplikat dari standar dasar yang dapat dicapai bagi yang membutuhkannya
+*/13516144_035 oleh karena itu di tahun satu sembilan tujuh satu general conference on weights and measures ke-14 memilih tujuh besaran sebagai besaran pokok dan menjadi dasar terbentuknya satuan sistem internasional yang sering kita sebut sebagai satuan SI dan dikenal dengan sebutan sistem metrik
+*/13516144_036 untuk satuan pokok ini ada waktu dengan detik atau sekon ada panjang dengan satuannya meter massa dengan satuannya kilogram arus listrik dengan satuannya ampere suhu dengan satuannya kelvin jumlah zat dengan satuannya mol dan intensitas cahaya dengan satuannya candela
+*/13516144_037 banyak satuan turunan standar internasional yang didefinisikan dari satuan pokok ini
+*/13516144_038 misalnya satuan SI untuk daya yaitu watt didefinisikan dalam satuan pokok untuk massa panjang dan waktu
+*/13516144_039 karena satu watt sama dengan satu kilogram kali meter persegi bagi detik pangkat tiga
+*/13516144_040 untuk menyatakan besaran yang sangat besar dan besaran yang sangat kecil yang biasa kita temui dalam fisika digunakan notasi ilmiah yang menggunakan pangkat dari sepuluh
+*/13516144_041 misalnya tiga puluh lima juta bisa kita tuliskan dengan tiga koma lima kali sepuluh pangkat tujuh
+*/13516144_042 notasi ilmiah pada komputer kadang bahkan menggunakan pernyataan yang lebih singkat
+*/13516144_043 misalnya kalau kasus tadi tiga puluh lima juta dituliskan tiga koma lima e tujuh dimana e adalah eksponen dari sepuluh
+*/13516144_044 dan bahkan dibeberapa kalkulator e hanya diganti sebagai spasi kosong
+*/13516144_045 untuk kenyamanan lebih lanjut ketika berhadapan dengan ukuran yang sangat besar atau sangat kecil kita gunakan awalan awalan seperti yang saya akan sebutkan seperti berikut
+*/13516144_046 giga yaitu sepuluh pangkat sembilan
+*/13516144_047 mega yaitu sepuluh pangkat enam
+*/13516144_048 kilo yaitu sepuluh pangkat tiga
+*/13516144_049 centi sepuluh pangkat minus dua
+*/13516144_050 mili sepuluh pangkat minus dua
+*/13516144_051 mikro sepuluh pangkat minus enam
+*/13516144_052 nano sepuluh pangkat minus sembilan
+*/13516144_053 pico sepuluh pangkat minus dua belas
+*/13516144_054 berikut yang sering digunakan
+*/13516144_055 menempelkan awalan tersebut pada satuan SI memberikan efek mengalikan dengan faktor yang terkait
+*/13516144_056 contohnya tadi tiga puluh lima juta asumsikan kita berikan satuan watt jadi tiga puluh lima juta watt kita bisa sebutkan dengan tiga puluh lima mega watt
+*/13516144_057 untuk sesi kuliah pertama dicukupkan
+*/13516144_058 tugas sesi ini adalah mencari dan menuliskan satuan turunan SI
+*/13516144_059 demikian terima kasih
+*/13516144_060 selamat pagi
+*/13516145_001 ya selamat siang
+*/13516145_002 apa kabar kalian semua baik
+*/13516145_003 oke apa tugas yang kemarin saya kasih sudah dikerjakan
+*/13516145_004 udah pada dikumpul di web kan ya
+*/13516145_005 bagus bagus
+*/13516145_006 ya jadi sekarang sebelum saya mulai materi buat hari ini ada pengumuman buat kelas minggu depan
+*/13516145_007 jadi minggu depan kelasnya ditiadakan karena saya harus pergi ke luar kota
+*/13516145_008 buat jam penggantinya kalian pada bisa kapan
+*/13516145_009 nanti saya tanya lagi ke ketua kelasnya ya
+*/13516145_010 ketua kelasnya siapa di sini
+*/13516145_011 oh kamu
+*/13516145_012 oke nanti saya kasih kontak saya ke kamu
+*/13516145_013 baik sebelumnya kita review dulu pertemuan yang lalu kita belajar apa
+*/13516145_014 minggu lalu kita belajar tentang bagaimana kita membuat dari persamaan ini jadi gambar ini
+*/13516145_015 kalian masih pada ingat kan ya gimana caranya
+*/13516145_016 dasarnya setidaknya kalian paham lah ya
+*/13516145_017 nah buat pertemuan ini tuh materinya tentang apa yang bisa kamu dapat dari suatu grafik
+*/13516145_018 maksudnya gimana tuh
+*/13516145_019 maksud saya tuh dari gambar grafik ini kamu bisa menyimpulkan sesuatu
+*/13516145_020 misal nih saya kasih gambar grafik harga minyak nih kaya gini
+*/13516145_021 nah itu kan arahnya ke atas kanan itu tuh artinya harga minyak lagi naik
+*/13516145_022 contoh sekilasnya gitu lah
+*/13516145_023 itu baru contoh gampangnya
+*/13516145_024 kalo misalnya saya kasih grafik turunan dari harga minyak tadi nah kalo ada garis yang kaya gini tuh tandanya harga minyak lagi naik sedangkan kalo yang kaya gini tuh lagi turun
+*/13516145_025 gitu lah kira-kira
+*/13516145_026 tentu saja seperti yang saya kemarin bilang biasanya ini bukan hal yang kita lakukan pake tangan ya
+*/13516145_027 kecuali kalo kalian lagi ga ada kerjaan tetep sih mendingan kalian pake program aja buat gambarnya toh udah ada banyak di internet program-program kaya gini
+*/13516145_028 mending ngabisin waktu buat hal-hal yang lebih penting daripada gambar titik-titik dan tarik garis
+*/13516145_029 selain lebih cepet lebih enak juga kamu tinggal ketik ketik ketik abis itu pencet enter nongol
+*/13516145_030 nah coba sekarang saya buka dulu program buat ngegambar grafik persamaan
+*/13516145_031 terus saya masukin sebuah persamaan aneh
+*/13516145_032 nah muncul
+*/13516145_033 jadi persamaan yang tadi saya masukan itu gambarnya seperti ini
+*/13516145_034 kalo digambar pake tangan pasti rempong kan ya
+*/13516145_035 nah dari gambar ini coba apa yang bisa kamu lihat dari gambar ini
+*/13516145_036 coba tulis di kertas kecil saya kasih waktu
+*/13516145_037 dua menit cukup lah ya toh cuman kasih deskripsi singkat doang
+*/13516145_038 terserah kalo kamu liat ada gambar kucing di gambar persamaan ini boleh ditulis
+*/13516145_039 atau kalau dari gambar ini ternyata kamu ketemu jawaban dari semua pertanyaan dalam hidup kamu juga boleh silakan ditulis
+*/13516145_040 dua menit mulai dari sekarang ya
+*/13516145_041 ya waktunya habis
+*/13516145_042 dikumpul ayo dikumpul
+*/13516145_043 oke saya coba ambil beberapa secara acak abis itu saya coba baca ya
+*/13516145_044 grafik gelombang suara
+*/13516145_045 oke menarik-menarik
+*/13516145_046 grafik hasil gempa bumi
+*/13516145_047 oke <eum> bisa jadi
+*/13516145_048 tulisan dokter
+*/13516145_049 <heum> oke
+*/13516145_050 ide kalian menarik-menarik ya
+*/13516145_051 jadi ini tuh sebenarnya persamaan trigono yang agak kompleks
+*/13516145_052 yang tadi jawabannya berkait dengan gelombang ya kalian ga salah sih
+*/13516145_053 gelombang-gelombang beberapa bentuknya kaya gini
+*/13516145_054 kalo ga ada konteks ini gelombang apa tentu kalian ga bisa tau ya
+*/13516145_055 ini gambar maksudnya apa sih
+*/13516145_056 tapi kalo misalnya saya kasih konteks kalo ini grafik suara orang ngomong
+*/13516145_057 nah itu ada bagian yang beda sendiri di sana bisa disimpulkan kan misalnya wah orangnya lagi tiba-tiba teriak gitu
+*/13516145_058 atau kalo misalnya saya bilang ini grafik gempa bagian yang tinggi sendiri ini tentu artinya bukan karena orang lagi teriak keras tapi karena lagi terjadi gempa gitu
+*/13516145_059 nah poinnya yang mau saya sampaikan itu yang pertama pentingnya konteks
+*/13516145_060 kalian harus tau dulu kalian berhadapan dengan data apa setelah kalian tau konteksnya apa baru kita bisa tarik suatu informasi
+*/13516145_061 jadi beberapa contoh pola yang umum biasa muncul pada grafik-grafik tuh
+*/13516145_062 nih
+*/13516145_063 ada yang kalo kaya gini artinya lagi ada peningkatan atau kalo kaya gini lagi ada destabilitas abis itu stabil lagi dan seterusnya dan seterusnya
+*/13516145_064 tentu saja saya ga akan menyebutkan satu satu
+*/13516145_065 buat yang ini kalian harus banyak eksplorasi dan analisis sendiri
+*/13516145_066 nah maka dari itu buat pertemuan dua minggu lagi saya mau kasih tugas
+*/13516145_067 tenang tugasnya sederhana kok
+*/13516145_068 jadi pertama kalian cari sebuah grafik
+*/13516145_069 boleh grafik yang merupakan hasil dari persamaan boleh juga grafik yang ga dihasilkan oleh persamaan
+*/13516145_070 bebas
+*/13516145_071 nah dari sana kalian coba ambil sebanyak-banyaknya informasi yang kalian bisa tangkap dari sana
+*/13516145_072 boleh berupa prediksi kesimpulan apapun
+*/13516145_073 nah abis itu kan pasti grafik yang kalian pilih itu ada topik tertentunya kan ya coba kalian cari topik lain yang mungkin cocok untuk grafik itu
+*/13516145_074 abis itu kalian coba gali informasi lagi sebanyak-banyaknya dengan konteks yang berbeda
+*/13516145_075 gampang kan ya
+*/13516145_076 buat informasinya makin banyak makin bagus
+*/13516145_077 buat konteksnya saya minta minimal tiga ya
+*/13516145_078 terus saya minta kalian cari dua grafik
+*/13516145_079 jadi totalnya ada enam masing-masing grafik cari tiga alternatif konteks yang cocok
+*/13516145_080 mungkin ada yang nanya lah tugas kaya gini buat apa pak kok ga jelas
+*/13516145_081 tujuannya tuh biar kalian bisa mengenali eksplorasi sekilas lah istilahnya jenis-jenis grafik dan persebaran data di luar sana
+*/13516145_082 dan satu lagi itu biar kalian sadar kalau satu jenis grafik itu bisa macam-macam interpretasinya
+*/13516145_083 intinya supaya kalian bisa melihat seberapa banyak kalian bisa menganalisis dari suatu grafik
+*/13516145_084 memang sih ga semua grafik banyak informasinya dan kalau emang dikit ga usah dipaksa jadi banyak
+*/13516145_085 saya hanya ingin melihat seberapa kreatif dan seberapa kalian bisa eksplorasi dari grafik-grafik yang kalian cari
+*/13516145_086 tugasnya ga dinilai kok jadi dibawa santai aja
+*/13516145_087 tapi tentu saja saya berharap kalian mengerjakan ya kalau ga dikerjakan nanti saya catat namanya terus saya kasih pengawasan spesial
+*/13516145_088 nanti buat yang hasilnya paling menarik akan saya kasih hadiah kan kebetulan saya abis dari luar kota tuh
+*/13516145_089 nanti akan saya bawa oleh-oleh
+*/13516145_090 nah jadi begitu saja tugasnya
+*/13516145_091 inget ya dua minggu lagi
+*/13516145_092 nah buat selanjutnya itu saya mau kasih liat beberapa contoh
+*/13516145_093 masing-masing orang nanti di sini pasti akan bertemu dengan bidang-bidang yang mungkin belom pernah kalian sentuh sebelumnya
+*/13516145_094 maksud saya tuh nanti pas kalian kerja
+*/13516145_095 nah saya mau coba kasih beberapa contoh beberapa grafik yang mungkin cukup umum untuk dilihat tapi saya mau coba analisis salah satu buat kalian
+*/13516145_096 biar kalian bisa dapat gambaran gimana cara menganalisis sebuah grafik
+*/13516145_097 ini ada contoh harga gas alam per galonnya
+*/13516145_098 ini sempat ada krisis di sini kalo ga salah ada ledakan yang skalanya agak besar di suatu tambang gas di afrika
+*/13516145_099 makanya harganya tiba-tiba naik karena tempat di situ tuh salah satu pemasok gas alam terbesar di dunia
+*/13516145_100 waktu meledak tambang di situ kan jadinya ga beroperasi jadinya pasokan gas alam menurun beberapa persen selama beberapa minggu
+*/13516145_101 makanya jadi di sini harganya naik
+*/13516145_102 nah di ujung kanan ini kan harga gas alam kelihatannya lagi stabil naik
+*/13516145_103 dari sini kita kalo misalnya menganalisis bentuknya sama kondisi saat ini kita bisa kira-kira proyeksi harga gas alam di tahun sekian berapa
+*/13516145_104 nah waktu saya kasih tugas tadi tuh saya mau informasi yang seperti itu
+*/13516145_105 salah ga apa asalkan ga terlalu aneh jawabannya
+*/13516145_106 kita memang belum belajar hitungan apapun sih tapi saya berharapnya kalian bisa coba eksplorasi dulu
+*/13516145_107 nanti dari hasil kalian baru kita belajar lebih banyak ke sana
+*/13516145_108 ya jadi sekian aja kelasnya sampai di sini
+*/13516145_109 ingat ya minggu depan tidak ada kelas sama buat jadwal nanti kalian ngomong-ngomong lagi bisa kapan
+*/13516145_110 nanti kabarin ke ketua kelas ketua kelas kabarin ke saya
+*/13516145_111 oke terima kasih
+*/13516151_001 pada kesempatan kali ini kita akan membahas tentang rekayasa perangkat lunak
+*/13516151_002 namun sebelum itu kita bahas dahulu apa itu perangkat lunak
+*/13516151_003 perangkat lunak adalah program komputer dan dokumentasi serta data terkait yang berkaitan dengan operasi dari sebuah sistem komputer
+*/13516151_004 perangkat lunak adalah sebuah sarana dan sebuah produk untuk menghasilkan sebuah produk atau informasi
+*/13516151_005 perangkat lunak itu direkayasa bukan diproduksi
+*/13516151_006 perangkat lunak yang baik harus memberikan fungsionalitas dan kinerja yang sesuai dengan kebutuhan kepada pengguna dan harus bisa dipelihara bisa diandalkan dan bisa digunakan
+*/13516151_007 terdapat dua jenis dari produk perangkat lunak yaitu produk umum atau generik dan produk yang telah disesuaikan
+*/13516151_008 produk umum adalah produk perangkat lunak yang dikembangkan untuk pasar yang umum
+*/13516151_009 produk ini sistem yang berdiri sendiri yang diproduksi oleh organisasi pengembangan dan dijual pada pasar terbuka untuk pelanggan siapapun yang dapat membelinya
+*/13516151_010 sedangkan produk yang telah disesuaikan adalah produk perangkat lunak yang dikembangkan khusus untuk pelanggan tertentu
+*/13516151_011 kontraktor perangkat lunak mengembangkan perangkat lunak khusus untuk pelanggan tersebut
+*/13516151_012 perbedaan penting di antara kedua jenis perangkat lunak tersebut adalah pada produk umum organisasi yang mengembangkan perangkat lunak tersebut adalah yang mengatur spesifikasi dari perangkat lunaknya
+*/13516151_013 sedangkan untuk produk yang telah disesuaikan spesifikasinya biasanya dikembangkan dan dikontrol oleh entitas yang membeli produk perangkat lunak tersebut dan pengembang harus memenuhi spesifikasi tersebut
+*/13516151_014 terdapat berbagai domain dari aplikasi perangkat lunak
+*/13516151_015 misalnya perangkat lunak sistem perangkat lunak aplikasi perangkat lunak kecerdasan buatan dan lainnya
+*/13516151_016 nah setelah kita bahas apa itu perangkat lunak sekarang kita akan bahas tentang rekayasa perangkat lunak
+*/13516151_017 rekayasa perangkat lunak adalah sebuah disiplin rekayasa yang berhubungan dengan semua aspek dari produksi atau pembuatan perangkat lunak mulai dari tahap awal dari spesifikasi sistem hingga memeliharanya setelah sistem tersebut telah digunakan
+*/13516151_018 rekayasa perangkat lunak juga bisa dikatakan sebagai aplikasi dari pendekatan yang sistematis berdisiplin dan terukur untuk pengembangan operasi dan pemeliharaan dari perangkat lunak
+*/13516151_019 rekayasa perangkat lunak meliputi suatu proses teknik manajemen metode teknis dan penggunaan kakas
+*/13516151_020 secara detail dalam melakukan rekayasa perangkat lunak kita menggunakan disiplin rekayasa
+*/13516151_021 kita mengaplikasikan teori metode dan kakas yang tepat
+*/13516151_022 dan meskipun tidak ada teori dan metode yang bisa diaplikasikan kita akan selalu mencoba untuk menemukan solusi dari suatu permasalahan
+*/13516151_023 selain itu rekayasa perangkat lunak tidak hanya berhubungan dengan proses teknis dari pengembangan perangkat lunak namun juga termasuk aktivitas-aktivitas seperti manajemen proyek perangkat lunak dan pengembangan dari berbagai kakas metode dan teori untuk mendukung pembuatan perangkat lunak
+*/13516151_024 secara umum pelaku rekayasa perangkat lunak mengadopsi pendekatan yang sistematis dan terorganisir pada pekerjaannya karena seringkali ini adalah cara yang paling efektif untuk menghasilkan perangkat lunak yang berkualitas tinggi
+*/13516151_025 pendekatan sistematis yang digunakan pada rekayasa perangkat lunak terkadang disebut sebagai sebuah proses perangkat lunak
+*/13516151_026 proses perangkat lunak adalah sebuah rangkaian dari aktivitas yang mengarah kepada pembuatan dari sebuah produk perangkat lunak
+*/13516151_027 terdapat empat aktivitas dasar yang umumnya ada pada sebuah proses perangkat lunak
+*/13516151_028 aktivitas yang pertama adalah spesifikasi perangkat lunak
+*/13516151_029 aktivitas ini adalah tempat di mana pelanggan dan pelaku rekayasa mendefinisikan perangkat lunak yang akan diproduksi serta batasan-batasan pada operasinya
+*/13516151_030 selanjutnya ada aktivitas pengembangan perangkat lunak yang merupakan aktivitas di mana perangkat lunak didesain dan diprogram
+*/13516151_031 aktivitas yang ketiga adalah validasi perangkat lunak 
+*/13516151_032 aktivitas ini akan mengecek perangkat lunak untuk memastikan bahwa perangkat lunak sudah dibangun sesuai dengan kebutuhan pelanggan
+*/13516151_033 aktivitas yang terakhir adalah evolusi perangkat lunak
+*/13516151_034 aktivitas ini akan memodifikasi perangkat lunak yang sudah dibuat tadi untuk menerapkan perubahan kebutuhan dari pelanggan dan pasar
+*/13516151_035 sistem yang memiliki tipe yang berbeda membutuhkan proses pengembangan yang berbeda juga
+*/13516151_036 karena itu aktivitas umum tersebut mungkin diorganisir dalam beberapa cara dan dideskripsikan pada tingkat detail yang berbeda bergantung kepada tipe dari perangkat lunak yang sedang dikembangkan
+*/13516151_037 terdapat beberapa tantangan utama yang dihadapi pada proses rekayasa perangkat lunak
+*/13516151_038 tantangan tersebut adalah mengatasi perbedaan yang meningkat tuntutan untuk pengurangan waktu penyampaian perangkat lunak dan mengembangkan perangkat lunak yang dapat dipercaya
+*/13516151_039 rekayasa perangkat lunak seperti yang telah dijelaskan sebelumnya adalah suatu pendekatan sistematis untuk pembangunan perangkat lunak yang memperhitungkan biaya jadwal dan masalah kehandalan dan juga kebutuhan dari pelanggan dan pembangun perangkat lunak
+*/13516151_040 bagaimana pendekatan sistematis ini sebenarnya diimplementasikan bervariasi yang bergantung pada organisasi yang mengembangkan perangkat lunak tipe dari perangkat lunak dan orang-orang yang terlibat dalam proses pengembangan
+*/13516151_041 tidak ada metode dan teknik rekayasa perangkat lunak yang universal yang cocok untuk semua sistem dan semua organisasi
+*/13516151_042 nah sekarang kita akan membahas tentang metode dalam pembangunan perangkat lunak
+*/13516151_043 salah satu elemen kunci dalam pengembangan perangkat lunak adalah metode
+*/13516151_044 dalam melakukan rekayasa perangkat lunak kita dapat menggunakan metode rekayasa perangkat lunak dalam mengembangkan perangkat lunak untuk mendukung proses pengembangan perangkat lunak
+*/13516151_045 metode perangkat lunak adalah pendekatan terstruktur untuk pengembangan perangkat lunak yang meliputi model sistem notasi aturan petunjuk desain dan pedoman proses
+*/13516151_046 metode memberikan tahapan-tahapan dari aktivitas pengembangan dan kebutuhan struktural untuk produk atau hasil rekayasa
+*/13516151_047 metode dapat membantu dalam penyusunan perencanaan hingga pengelolaan setiap proses yang berjalan selama kegiatan pembangunan perangkat lunak
+*/13516151_048 seperti yang telah dijelaskan sebelumnya perangkat lunak yang dibangun oleh tiap pengembang memiliki berbagai tipe dan memiliki karakteristik yang berbeda-beda juga
+*/13516151_049 sehingga dalam membangunnya dibutuhkan proses teknik dan metode yang disesuaikan dengan karakteristik proyek pengembangan tersebut
+*/13516151_050 salah satu cara terbaik untuk menghasilkan perangkat lunak yang baik adalah dengan menggunakan metode
+*/13516151_051 kemudian pada praktiknya penggunaan metode yang tidak tepat memiliki potensi menyebabkan kegagalan pada proses pengembangan perangkat lunak
+*/13516151_052 agar kita dapat menerapkan metode yang tepat untuk suatu proyek pengembangan perangkat lunak sehingga keberjalanan proyek dilakukan dengan efektif serta dapat dihasilkan perangkat lunak yang memenuhi kebutuhan dan berkualitas tinggi kita dapat melakukan rekayasa metode dari pengembangan perangkat lunak
+*/13516151_053 rekayasa metode adalah disiplin rekayasa untuk mendesain membangun dan mengadaptasi metode teknik dan kakas untuk pembangunan sistem informasi
+*/13516151_054 kemudian salah satu tipe dari rekayasa metode adalah rekayasa metode situasional yang meliputi semua aspek mengenai pembuatan metode pengembangan untuk situasi yang spesifik sesuai dengan proyek yang dijalankan
+*/13516151_055 rekayasa metode yang dimaksud adalah membangun sebuah metode atau memodifikasi metode dari metode yang telah ada sebelumnya termasuk menggabungkan beberapa metode yang telah ada menjadi sebuah metode baru sedemikian rupa sehingga menyesuaikan situasi tertentu
+*/13516151_056 hasil dari rekayasa ini adalah sebuah metode spesifik yang dapat digunakan pada suatu proyek pengembangan perangkat lunak tertentu
+*/13516151_057 salah satu hal yang dapat mempengaruhi tingkat kesuksesan suatu proyek pengembangan perangkat lunak adalah metode sehingga rekayasa metode dapat menjadi suatu solusi yang dapat dilakukan untuk menciptakan metode yang sesuai dengan situasi proyek sehingga dapat mengurangi resiko kegagalan dalam proyek pengembangan perangkat lunak serta juga memungkinkan keberjalanan proyek menjadi lebih efektif dan sistematis sehingga dapat mencapai hasil yang diinginkan oleh para pemegang kepentingan dalam suatu proyek
+*/13516151_058 munculnya rekayasa metode situasional terjadi karena ketidakmungkinan adanya metode universal yang cocok dengan segala kondisi karena konteks dan budaya pembangunan perangkat lunak di tiap organisasi maupun di tiap proyek berbeda-beda
+*/13516151_059 dalam melakukan rekayasa metode situasional metode dapat dilihat sebagai kumpulan dari suatu bagian dari metode yang ukurannya lebih kecil dari metode yang utuh
+*/13516151_060 bagian-bagian kecil dari metode tersebut disusun sedemikian rupa sehingga dapat membentuk metode yang utuh
+*/13516151_061 nah dengan melakukan rekayasa metode situasional diharapkan dapat menciptakan suatu metode spesifik sesuai dengan situasi proyek pengembangan perangkat lunak sehingga dapat mendukung keberjalanan proyek perangkat lunak
+*/13516151_062 kemudian diharapkan bahwa suatu proyek pengembangan perangkat lunak untuk melakukan rekayasa metode situasional untuk menghasilkan metode yang sesuai dengan karakteristik proyek yang akan dikembangkan serta menerapkannya pada proyeknya
+*/13516151_063 dengan begitu proyek tersebut dapat menggunakan metode yang sesuai dengan karakteristik proyek sehingga keberjalanan proyek menjadi lebih efektif serta dapat memberikan hasil yang baik juga
+*/13516151_064 itulah pengenalan singkat dari saya tentang rekayasa perangkat lunak serta metode dan rekayasa metodenya
+*/13516154_001 selamat siang pada pertemuan kali ini saya akan membahas tentang tugas akhir saya yang berjudul pengembangan dinamik resource scheduler pada kubernetes untuk pelatihan deep learning terdistribusi
+*/13516154_002 sebelum saya mulai menjelaskan hasil tugas akhir saya saya ingin menjelaskan terlebih dahulu mengapa saya memilih topik tersebut sebagai topik tugas akhir saya
+*/13516154_003 pembelajaran mesin merupakan teknologi penting yang digunakan dalam berbagai aspek kehidupan
+*/13516154_004 aplikasi dari teknologi tersebut meningkatkan kenyamanan hidup dengan mengotomasi pekerjaan manusia
+*/13516154_005 kenyamanan yang diberikan oleh teknologi tersebut dimulai dari hal yang sederhana seperti penyaringan surel spam hingga hal yang lebih kompleks seperti mobil yang dapat mengemudi diri sendiri
+*/13516154_006 salah satu teknik yang dapat digunakan untuk melatih mesin belajar adalah deep learning
+*/13516154_007 deep learning melakukan pelatihan dengan metode yang meniru cara berlatih dan berpikir manusia
+*/13516154_008 pada deep learning terdapat neural network yang terdiri dari lapisan neuron yang digunakan untuk menerima data mempelajarinya dan menghasilkan sebuah model yang dapat memprediksi data lain sesuai dengan pembelajaran yang telah dilakukan
+*/13516154_009 deep learning merupakan teknik pembelajaran mesin yang populer karena kemampuannya untuk menghasilkan model yang lebih baik dibandingkan teknik pembelajaran mesin lainnya
+*/13516154_010 model yang dihasilkan oleh pelatihan deep learning bergantung pada kualitas data yang digunakan pada saat pelatihan
+*/13516154_011 pelatihan membutuhkan jumlah data yang banyak dan beragam sehingga data dapat menggambarkan kondisi nyata
+*/13516154_012 model yang dilatih menggunakan data berkualitas tidak hanya memiliki kemampuan untuk memprediksi hasil dari data latihan secara tepat tetapi juga memiliki kemampuan untuk memprediksi hasil dari kondisi nyata secara tepat
+*/13516154_013 jumlah data yang banyak menyebabkan pelatihan deep learning membutuhkan waktu yang lama untuk diselesaikan
+*/13516154_014 jumlah lapisan neuron yang digunakan pada proses pelatihan juga memengaruhi durasi pelatihan
+*/13516154_015 semakin banyak lapisan neuron yang digunakan maka semakin lama waktu yang dibutuhkan untuk melatih model
+*/13516154_016 selain itu durasi pelatihan model juga sangat dipengaruhi oleh jumlah epoch
+*/13516154_017 jumlah epoch pelatihan menentukan berapa iterasi pelatihan model yang dilakukan
+*/13516154_018 pelatihan deep learning yang menggunakan data kompleks memerlukan epoch yang lebih tinggi meningkatkan durasi pelatihan deep learning
+*/13516154_019 pada deep learning terdapat pendekatan yang telah dikembangkan untuk meningkatkan akurasi model dan mengurangi waktu yang dibutuhkan untuk melakukan pelatihan yaitu deep learning terdistribusi
+*/13516154_020 deep learning terdistribusi memanfaatkan prinsip pembagian tugas pembelajaran ke dalam beberapa tugas yang lebih kecil
+*/13516154_021 pembagian tugas tersebut meringankan kebutuhan kekuatan komputasi yang dimiliki suatu mesin
+*/13516154_022 pada implementasinya deep learning terdistribusi memiliki beberapa kebutuhan yang harus dipenuhi agar pembelajaran menghasilkan model yang optimal
+*/13516154_023 sistem harus memiliki kemampuan untuk menjaga konsistensi dari kondisi model yang sedang dilatih karena proses pembelajaran dilakukan oleh banyak mesin secara bersamaan
+*/13516154_024 sistem juga harus memiliki kemampuan untuk mengalokasikan tugas yang tepat pada mesin sesuai dengan kebutuhan agar proses pembelajaran dapat dilakukan secara efisien
+*/13516154_025 pada tugas akhir ini dibangun sebuah sistem pada kubernetes yang mengatasi permasalahan yang dimiliki oleh deep learning terdistribusi
+*/13516154_026 kubernetes sebuah platform cluster manager memenuhi kebutuhan konsistensi antar mesin sementara sistem yang dibangun memenuhi kebutuhan alokasi yang tepat secara efisien
+*/13516154_027 sistem yang dibangun berupa custom resource dalam bentuk controller pada kubernetes yang bertugas mengelola pembelajaran pada cluster kubernetes
+*/13516154_028 dragon merupakan sebuah resource scheduler dalam bentuk controller yang mengelola penempatan job pelatihan deep learning pada cluster kubernetes
+*/13516154_029 pendekatan yang dimanfaatkan dragon untuk menghasilkan sebuah resource scheduler yang optimal adalah gang scheduling dan auto scaling
+*/13516154_030 dinamik resource scheduler yang dikembangkan pada tugas akhir ini merupakan pengembangan lanjut dari dragon
+*/13516154_031 pendekatan yang digunakan untuk mengembangkan scheduler masih sama akan tetapi digunakan logika yang berbeda untuk menghasilkan kinerja yang lebih optimal
+*/13516154_032 sebelum saya menjelaskan lebih lanjut tentang hasil tugas akhir saya saya juga ingin menjelaskan terlebih dahulu apa dan bagaimana cara kerja kubernetes
+*/13516154_033 kubernetes merupakan sebuah platform yang pada awalnya dibangun oleh google pada tahun dua ribu empat belas yang digunakan untuk mengelola beban kerja container dan service pada cloud computing
+*/13516154_034 pada umumnya penggunaan kubernetes disertai dengan penggunaan docker sebagai platform pembentuk container yang nantinya akan disebar dan dikelola dengan bantuan kubernetes
+*/13516154_035 penggunaan container sebagai unit penyebaran perangkat lunak mempermudah pengembang aplikasi untuk memelihara aplikasi yang telah dibuat
+*/13516154_036 setiap komponen aplikasi dapat dibagi dan disebarkan dalam banyak container yang terpisah membuat penyebaran aplikasi lebih ringan dan mudah untuk dipelihara
+*/13516154_037 container membungkus kode dan semua ketergantungan aplikasi pada satu tempat agar aplikasi dapat berjalan di semua lingkungan komputasi yang dapat mengakses container tersebut
+*/13516154_038 pembentukan container dari aplikasi merupakan langkah penting dalam proses penyebaran aplikasi karena dasar dari penggunaan kubernetes membutuhkan sebuah docker image yang telah terdaftar dalam gudang pustaka daring
+*/13516154_039 docker image yang ada dapat diakses oleh kubernetes dan dikelompokan ke dalam satu pod
+*/13516154_040 pod adalah unit terkecil dalam kubernetes yang merepresentasikan satuan layanan yang terdiri dari satu atau lebih container yang terhubung erat antar satu dan lainnya
+*/13516154_041 pod yang telah disebar di kubernetes berjalan dalam sebuah node unit komputasi dalam kubernetes yang dapat berbentuk mesin fisik mau pun mesin virtual
+*/13516154_042 selain pod terdapat kublet yang berjalan pada setiap node yang bertugas untuk mengatur kerja pod dan komunikasi antara kubernetes master dengan node lainnya
+*/13516154_043 setiap container yang ada dalam satu pod berbagi satu penyimpanan data pada jaringan yang sama
+*/13516154_044 pod yang telah disebar dalam kubernetes tidak akan selamanya berjalan secara lancar
+*/13516154_045 layanan yang diberikan oleh sebuah pod akan rusak jika node yang bertugas untuk menjalankan pod mengalami kegagalan
+*/13516154_046 kubernetes memberikan cara yang mudah bagi pengembang aplikasi untuk menyebar pod pada banyak node untuk menghindari permasalahan tersebut
+*/13516154_047 cara yang dapat digunakan disebut dengan penyebaran sebuah objek yang dinamakan deployment
+*/13516154_048 pengembang aplikasi dapat membentuk deployment yang terdiri dari pod dengan label tertentu
+*/13516154_049 jumlah replika dari pod yang akan dibentuk juga ditentukan oleh pengembang aplikasi pada dokumen YAML
+*/13516154_050 dengan ditentukannya deployment kubernetes secara otomatis akan memelihara replika dari pod yang telah ditentukan
+*/13516154_051 akan tetapi masa hidup pod di kubernetes tidak dapat dijamin untuk berjalan selamanya
+*/13516154_052 meski deployment menjaga jumlah replika pod yang disebar dalam node IP internal berubah setiap kali pod mati dan dihidupkan kembali
+*/13516154_053 perubahan IP internal dari pod menyebabkan IP internal dari pod menjadi gerbang komunikasi yang tidak dapat diandalkan
+*/13516154_054 untuk mengatasi permasalahan ini kubernetes menyediakan service sebagai metode pembentukan IP statik yang dapat digunakan untuk mengakses sebuah cluster yang terdiri dari deployment yang telah dibentuk
+*/13516154_055 selain membentuk IP cluster yang dapat digunakan untuk komunikasi antar cluster service juga dapat digunakan untuk membentuk IP eksternal yang dapat diakses oleh pengguna aplikasi
+*/13516154_056 salah satu kegunaan dari kubernetes adalah sebagai alat pengatur komputasi dari pelatihan deep learning yang telah dibahas sebelumnya
+*/13516154_057 akan tetapi kubernetes bukanlah sebuah alat pengaturan yang dibuat secara khusus untuk pelatihan deep learning
+*/13516154_058 hal ini menyebabkan scheduler yang dimiliki oleh kubernetes masih belum optimal untuk menjalankan pelatihan terutama pelatihan deep learning
+*/13516154_059 kubernetes menggunakan salah satu objek yang dimilikinya bernama job untuk menjalankan proses pelatihan deep learning
+*/13516154_060 job adalah sebuah resource yang dapat disebar di cluster kubernetes 
+*/13516154_061 sebuah job membentuk pod yang bertugas untuk menyelesaikan sebuah tugas tertentu
+*/13516154_062 resource job melakukan pengawasan terhadap pod sampai pod berhasil menyelesaikan tugas tersebut
+*/13516154_063 jika pod yang dibentuk mengalami kegagalan maka job akan membentuk pod baru dan mengulangi pengerjaan tugas
+*/13516154_064 job dapat membentuk lebih dari satu pod agar pengerjaan tugas dapat dilakukan secara paralel
+*/13516154_065 oh maaf sebenarnya masih sangat banyak materi yang masih perlu dibahas terkait dengan cara kerja kubernetes
+*/13516154_066 akan tetapi melihat waktu yang saya miliki sangat terbatas dan sudah hampir habis saya akhiri dulu pemaparan laporan tugas akhir saya
+*/13516154_067 pemaparan akan dilanjutkan pada pertemuan minggu depan
+*/13516154_068 oleh karena itu saya akhiri terlebih dahulu pemaparan saya hari ini terima kasih
+*/13516154_069 sebelum saya selesaikan kelas pemaparan hari ini saya buka sesi tanya jawab terlebih dahulu
+*/13516154_070 jika sekiranya ada pertanyaan tentang latar belakang dan cara kerja kubernetes silahkan acungkan tangannya
+*/13516154_071 saya hanya akan mengambil satu pertanyaan saja
+*/13516154_072 oh iya mas silahkan pertanyaan
+*/13516154_073 pertanyaannya bagus sekali tapi untuk saat ini saya belum bisa jawab ya
+*/13516154_074 pertanyaannya akan saya jawab di pertemuan minggu depan ya mas
+*/13516154_075 untuk yang lain yang juga punya pertanyaan silahkan kirimkan pertanyaan lewat surel
+*/13516154_076 nanti jawaban dari pertanyaan akan saya jawab minggu depan bersama dengan pertanyaan tadi
+*/13516154_077 untuk pertemuan minggu ini saya sudahi terlebih dahulu
+*/13516154_078 terima kasih semuanya atas perhatiannya
